@@ -42,7 +42,7 @@
 		<dc:subject id="subject-4">Scandinavia -- Poetry</dc:subject>
 		<meta property="authority" refines="#subject-4">LCHS</meta>
 		<meta property="term" refines="#subject-4">sh2008116909</meta>
-				<meta property="se:subject">Fantasy</meta>
+		<meta property="se:subject">Fantasy</meta>
 		<meta property="se:subject">Poetry</meta>
 		<dc:description id="description">Beowulf by Anonymous.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
@@ -57,8 +57,8 @@
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Beowulf</meta>
 		<dc:creator id="author">Anonymous</dc:creator>
 		<meta property="file-as" refines="#author">Anonymous</meta>
-				<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
-<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Robin Katsuya-Corbet, and David Widger</dc:contributor>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
@@ -75,7 +75,7 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
-			<dc:contributor id="translator-1">Gummere</dc:contributor>
+		<dc:contributor id="translator-1">Gummere</dc:contributor>
 		<meta property="file-as" refines="#translator-1">Gummere</meta>
 		<meta property="role" refines="#translator-1" scheme="marc:relators">trl</meta>
 	</metadata>
@@ -103,5 +103,5 @@
 		<itemref idref="chapter-2.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="permissions.xhtml"/>
-</spine>
+	</spine>
 </package>
