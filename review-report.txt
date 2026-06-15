@@ -1,6 +1,6 @@
 ============================================================
 IMPRESSION EDITIONS — Review Report
-Generated: 2026-06-15 22:39:50
+Generated: 2026-06-15 22:44:01
 ============================================================
 
 --- Remaining Lint Errors ---
@@ -67,63 +67,63 @@ Generated: 2026-06-15 22:39:50
 [UNFIXABLE] │       │               │                    │ last <p> of dialog.             │
 [UNFIXABLE] │       │               │          Line 1236 │ “Quaff of this cup, my king and │
 [UNFIXABLE] │       │               │                    │ lord,<br/>                      │
-[UNFIXABLE] │       │               │                    │                          break… │
+[UNFIXABLE] │       │               │                    │                         breaker │
 [UNFIXABLE] │       │               │                    │ of rings, and blithe be         │
 [UNFIXABLE] │       │               │                    │ thou,<br/>                      │
-[UNFIXABLE] │       │               │                    │                          gold-… │
+[UNFIXABLE] │       │               │                    │                         gold-f… │
 [UNFIXABLE] │       │               │                    │ of men; to the Geats here       │
 [UNFIXABLE] │       │               │                    │ speak<br/>                      │
-[UNFIXABLE] │       │               │                    │                          such   │
+[UNFIXABLE] │       │               │                    │                         such    │
 [UNFIXABLE] │       │               │                    │ words of mildness as man should │
 [UNFIXABLE] │       │               │                    │ use.<br/>                       │
-[UNFIXABLE] │       │               │                    │                          Be     │
-[UNFIXABLE] │       │               │                    │ glad with thy Geats; of those   │
-[UNFIXABLE] │       │               │                    │ gifts be mindful,<br/>          │
-[UNFIXABLE] │       │               │                    │                          or     │
-[UNFIXABLE] │       │               │                    │ near or far, which now thou     │
+[UNFIXABLE] │       │               │                    │                         Be glad │
+[UNFIXABLE] │       │               │                    │ with thy Geats; of those gifts  │
+[UNFIXABLE] │       │               │                    │ be mindful,<br/>                │
+[UNFIXABLE] │       │               │                    │                         or near │
+[UNFIXABLE] │       │               │                    │ or far, which now thou          │
 [UNFIXABLE] │       │               │                    │ hast.</p>                       │
 [UNFIXABLE] │       │               │          Line 1807 │ “Lo, so may he say who sooth    │
 [UNFIXABLE] │       │               │                    │ and right<br/>                  │
-[UNFIXABLE] │       │               │                    │                          follo… │
+[UNFIXABLE] │       │               │                    │                         follows │
 [UNFIXABLE] │       │               │                    │ ’mid folk, of far times         │
 [UNFIXABLE] │       │               │                    │ mindful,<br/>                   │
-[UNFIXABLE] │       │               │                    │                          a      │
+[UNFIXABLE] │       │               │                    │                         a       │
 [UNFIXABLE] │       │               │                    │ land-warden old, <a             │
 [UNFIXABLE] │       │               │                    │ href="endnotes.xhtml#note-70"   │
 [UNFIXABLE] │       │               │                    │ id="noteref-70"                 │
 [UNFIXABLE] │       │               │                    │ epub:type="noteref">24a</a>     │
 [UNFIXABLE] │       │               │                    │ that this earl belongs<br/>     │
-[UNFIXABLE] │       │               │                    │                          to the │
+[UNFIXABLE] │       │               │                    │                         to the  │
 [UNFIXABLE] │       │               │                    │ better breed! So, borne         │
 [UNFIXABLE] │       │               │                    │ aloft,<br/>                     │
-[UNFIXABLE] │       │               │                    │                          thy    │
+[UNFIXABLE] │       │               │                    │                         thy     │
 [UNFIXABLE] │       │               │                    │ fame must fly, O friend my      │
 [UNFIXABLE] │       │               │                    │ Beowulf,<br/>                   │
-[UNFIXABLE] │       │               │                    │                          far    │
-[UNFIXABLE] │       │               │                    │ and wide o’er folksteads many.  │
+[UNFIXABLE] │       │               │                    │                         far and │
+[UNFIXABLE] │       │               │                    │ wide o’er folksteads many.      │
 [UNFIXABLE] │       │               │                    │ Firmly thou<br/>                │
 [UNFIXABLE] │       │               │                    │                         shalt   │
 [UNFIXABLE] │       │               │                    │ all maintain,<br/>              │
-[UNFIXABLE] │       │               │                    │                          mighty │
+[UNFIXABLE] │       │               │                    │                         mighty  │
 [UNFIXABLE] │       │               │                    │ strength with mood of wisdom.   │
 [UNFIXABLE] │       │               │                    │ Love of<br/>                    │
 [UNFIXABLE] │       │               │                    │                         mine    │
 [UNFIXABLE] │       │               │                    │ will I assure thee,<br/>        │
-[UNFIXABLE] │       │               │                    │                          as,    │
+[UNFIXABLE] │       │               │                    │                         as,     │
 [UNFIXABLE] │       │               │                    │ awhile ago, I promised; thou    │
 [UNFIXABLE] │       │               │                    │ shalt prove a stay<br/>         │
-[UNFIXABLE] │       │               │                    │                          in     │
+[UNFIXABLE] │       │               │                    │                         in      │
 [UNFIXABLE] │       │               │                    │ future,<br/>                    │
-[UNFIXABLE] │       │               │                    │                          in     │
+[UNFIXABLE] │       │               │                    │                         in      │
 [UNFIXABLE] │       │               │                    │ far-off years, to folk of       │
 [UNFIXABLE] │       │               │                    │ thine,<br/>                     │
-[UNFIXABLE] │       │               │                    │                          to the │
+[UNFIXABLE] │       │               │                    │                         to the  │
 [UNFIXABLE] │       │               │                    │ heroes a help. Was not Heremod  │
 [UNFIXABLE] │       │               │                    │ thus<br/>                       │
-[UNFIXABLE] │       │               │                    │                          to     │
+[UNFIXABLE] │       │               │                    │                         to      │
 [UNFIXABLE] │       │               │                    │ offspring of Ecgwela,           │
 [UNFIXABLE] │       │               │                    │ Honor-Scyldings,<br/>           │
-[UNFIXABLE] │       │               │                    │                          nor    │
+[UNFIXABLE] │       │               │                    │                         nor     │
 [UNFIXABLE] │       │               │                    │ grew for their grace, but for   │
 [UNFIXABLE] │       │               │                    │ grisly slaughter,<br/>          │
 [UNFIXABLE] │       │               │                    │                         for     │
@@ -131,52 +131,51 @@ Generated: 2026-06-15 22:39:50
 [UNFIXABLE] │       │               │                    │ Danishmen.</p>                  │
 [UNFIXABLE] │       │               │          Line 1989 │ “These words of thine the       │
 [UNFIXABLE] │       │               │                    │ wisest God<br/>                 │
-[UNFIXABLE] │       │               │                    │                          sent   │
-[UNFIXABLE] │       │               │                    │ to thy soul! No sager           │
-[UNFIXABLE] │       │               │                    │ counsel<br/>                    │
+[UNFIXABLE] │       │               │                    │                         sent to │
+[UNFIXABLE] │       │               │                    │ thy soul! No sager counsel<br/> │
 [UNFIXABLE] │       │               │                    │                         from so │
 [UNFIXABLE] │       │               │                    │ young in years e’er yet have I  │
 [UNFIXABLE] │       │               │                    │ heard.<br/>                     │
-[UNFIXABLE] │       │               │                    │                          Thou   │
+[UNFIXABLE] │       │               │                    │                         Thou    │
 [UNFIXABLE] │       │               │                    │ art strong of main and in mind  │
 [UNFIXABLE] │       │               │                    │ art wary,<br/>                  │
-[UNFIXABLE] │       │               │                    │                          art    │
+[UNFIXABLE] │       │               │                    │                         art     │
 [UNFIXABLE] │       │               │                    │ wise in words! I ween           │
 [UNFIXABLE] │       │               │                    │ indeed<br/>                     │
 [UNFIXABLE] │       │               │                    │                         if ever │
 [UNFIXABLE] │       │               │                    │ it hap that Hrethel’s heir<br/> │
-[UNFIXABLE] │       │               │                    │                          by     │
+[UNFIXABLE] │       │               │                    │                         by      │
 [UNFIXABLE] │       │               │                    │ spear be seized, by sword-grim  │
 [UNFIXABLE] │       │               │                    │ battle,<br/>                    │
-[UNFIXABLE] │       │               │                    │                          by     │
+[UNFIXABLE] │       │               │                    │                         by      │
 [UNFIXABLE] │       │               │                    │ illness or iron, thine elder    │
 [UNFIXABLE] │       │               │                    │ and lord,<br/>                  │
 [UNFIXABLE] │       │               │                    │                         people… │
 [UNFIXABLE] │       │               │                    │ leader⁠—and life be thine⁠—<br/>  │
-[UNFIXABLE] │       │               │                    │                          no     │
+[UNFIXABLE] │       │               │                    │                         no      │
 [UNFIXABLE] │       │               │                    │ seemlier man will the Sea-Geats │
 [UNFIXABLE] │       │               │                    │ find<br/>                       │
-[UNFIXABLE] │       │               │                    │                          at all │
+[UNFIXABLE] │       │               │                    │                         at all  │
 [UNFIXABLE] │       │               │                    │ to choose for their chief and   │
 [UNFIXABLE] │       │               │                    │ king,<br/>                      │
 [UNFIXABLE] │       │               │                    │                         for     │
 [UNFIXABLE] │       │               │                    │ hoard-guard of heroes, if hold  │
 [UNFIXABLE] │       │               │                    │ thou wilt<br/>                  │
-[UNFIXABLE] │       │               │                    │                          thy    │
+[UNFIXABLE] │       │               │                    │                         thy     │
 [UNFIXABLE] │       │               │                    │ kinsman’s kingdom! Thy keen     │
 [UNFIXABLE] │       │               │                    │ mind pleases me<br/>            │
-[UNFIXABLE] │       │               │                    │                          the    │
+[UNFIXABLE] │       │               │                    │                         the     │
 [UNFIXABLE] │       │               │                    │ longer the better, Beowulf      │
 [UNFIXABLE] │       │               │                    │ loved!</p>                      │
 [UNFIXABLE] │       │               │          Line 3137 │ “Now the willing-giver to Weder │
 [UNFIXABLE] │       │               │                    │ folk<br/>                       │
-[UNFIXABLE] │       │               │                    │                          in     │
+[UNFIXABLE] │       │               │                    │                         in      │
 [UNFIXABLE] │       │               │                    │ death-bed lies; the Lord of     │
 [UNFIXABLE] │       │               │                    │ Geats<br/>                      │
-[UNFIXABLE] │       │               │                    │                          on the │
+[UNFIXABLE] │       │               │                    │                         on the  │
 [UNFIXABLE] │       │               │                    │ slaughter-bed sleeps by the     │
 [UNFIXABLE] │       │               │                    │ serpent’s deed!<br/>            │
-[UNFIXABLE] │       │               │                    │                          And    │
+[UNFIXABLE] │       │               │                    │                         And     │
 [UNFIXABLE] │       │               │                    │ beside him is stretched that    │
 [UNFIXABLE] │       │               │                    │ slayer-of-men<br/>              │
 [UNFIXABLE] │       │               │                    │                         with    │
@@ -185,80 +184,80 @@ Generated: 2026-06-15 22:39:50
 [UNFIXABLE] │       │               │                    │ id="noteref-109"                │
 [UNFIXABLE] │       │               │                    │ epub:type="noteref">38b</a> no  │
 [UNFIXABLE] │       │               │                    │ sword availed<br/>              │
-[UNFIXABLE] │       │               │                    │                          on the │
+[UNFIXABLE] │       │               │                    │                         on the  │
 [UNFIXABLE] │       │               │                    │ awesome thing in any wise<br/>  │
-[UNFIXABLE] │       │               │                    │                          to     │
-[UNFIXABLE] │       │               │                    │ work a wound. There Wiglaf      │
+[UNFIXABLE] │       │               │                    │                         to work │
+[UNFIXABLE] │       │               │                    │ a wound. There Wiglaf           │
 [UNFIXABLE] │       │               │                    │ sitteth,<br/>                   │
 [UNFIXABLE] │       │               │                    │                         Weohst… │
 [UNFIXABLE] │       │               │                    │ bairn, by Beowulf’s side,<br/>  │
-[UNFIXABLE] │       │               │                    │                          the    │
+[UNFIXABLE] │       │               │                    │                         the     │
 [UNFIXABLE] │       │               │                    │ living earl by the other        │
 [UNFIXABLE] │       │               │                    │ dead,<br/>                      │
-[UNFIXABLE] │       │               │                    │                          and    │
+[UNFIXABLE] │       │               │                    │                         and     │
 [UNFIXABLE] │       │               │                    │ heavy of heart a head-watch <a  │
 [UNFIXABLE] │       │               │                    │ href="endnotes.xhtml#note-110"  │
 [UNFIXABLE] │       │               │                    │ id="noteref-110"                │
 [UNFIXABLE] │       │               │                    │ epub:type="noteref">38c</a>     │
 [UNFIXABLE] │       │               │                    │ keeps<br/>                      │
-[UNFIXABLE] │       │               │                    │                          o’er   │
-[UNFIXABLE] │       │               │                    │ friend and foe.⁠—⁠Now our folk    │
+[UNFIXABLE] │       │               │                    │                         o’er    │
+[UNFIXABLE] │       │               │                    │ friend and foe.⁠—Now our folk    │
 [UNFIXABLE] │       │               │                    │ may look<br/>                   │
-[UNFIXABLE] │       │               │                    │                          for    │
+[UNFIXABLE] │       │               │                    │                         for     │
 [UNFIXABLE] │       │               │                    │ waging of war when once         │
 [UNFIXABLE] │       │               │                    │ unhidden<br/>                   │
-[UNFIXABLE] │       │               │                    │                          to     │
+[UNFIXABLE] │       │               │                    │                         to      │
 [UNFIXABLE] │       │               │                    │ Frisian and Frank the fall of   │
 [UNFIXABLE] │       │               │                    │ the king<br/>                   │
-[UNFIXABLE] │       │               │                    │                          is     │
-[UNFIXABLE] │       │               │                    │ spread afar.⁠—⁠The strife         │
+[UNFIXABLE] │       │               │                    │                         is      │
+[UNFIXABLE] │       │               │                    │ spread afar.⁠—The strife         │
 [UNFIXABLE] │       │               │                    │ began<br/>                      │
-[UNFIXABLE] │       │               │                    │                          when   │
+[UNFIXABLE] │       │               │                    │                         when    │
 [UNFIXABLE] │       │               │                    │ hot on the Hugas <a             │
 [UNFIXABLE] │       │               │                    │ href="endnotes.xhtml#note-111"  │
 [UNFIXABLE] │       │               │                    │ id="noteref-111"                │
 [UNFIXABLE] │       │               │                    │ epub:type="noteref">38d</a>     │
 [UNFIXABLE] │       │               │                    │ Hygelac fell<br/>               │
-[UNFIXABLE] │       │               │                    │                          and    │
+[UNFIXABLE] │       │               │                    │                         and     │
 [UNFIXABLE] │       │               │                    │ fared with his fleet to the     │
 [UNFIXABLE] │       │               │                    │ Frisian land.<br/>              │
-[UNFIXABLE] │       │               │                    │                          Him    │
+[UNFIXABLE] │       │               │                    │                         Him     │
 [UNFIXABLE] │       │               │                    │ there the Hetwaras humbled in   │
 [UNFIXABLE] │       │               │                    │ war,<br/>                       │
 [UNFIXABLE] │       │               │                    │                         plied   │
 [UNFIXABLE] │       │               │                    │ with such prowess their power   │
 [UNFIXABLE] │       │               │                    │ o’erwhelming<br/>               │
-[UNFIXABLE] │       │               │                    │                          that   │
+[UNFIXABLE] │       │               │                    │                         that    │
 [UNFIXABLE] │       │               │                    │ the bold-in-battle bowed        │
 [UNFIXABLE] │       │               │                    │ beneath it<br/>                 │
-[UNFIXABLE] │       │               │                    │                          and    │
+[UNFIXABLE] │       │               │                    │                         and     │
 [UNFIXABLE] │       │               │                    │ fell in fight. To his friends   │
 [UNFIXABLE] │       │               │                    │ no wise<br/>                    │
-[UNFIXABLE] │       │               │                    │                          could  │
+[UNFIXABLE] │       │               │                    │                         could   │
 [UNFIXABLE] │       │               │                    │ that earl give treasure! And    │
 [UNFIXABLE] │       │               │                    │ ever since<br/>                 │
-[UNFIXABLE] │       │               │                    │                          the    │
+[UNFIXABLE] │       │               │                    │                         the     │
 [UNFIXABLE] │       │               │                    │ Merowings’ favor has failed us  │
 [UNFIXABLE] │       │               │                    │ wholly.<br/>                    │
-[UNFIXABLE] │       │               │                    │                          Nor    │
+[UNFIXABLE] │       │               │                    │                         Nor     │
 [UNFIXABLE] │       │               │                    │ aught expect I of peace and     │
 [UNFIXABLE] │       │               │                    │ faith<br/>                      │
 [UNFIXABLE] │       │               │                    │                         from    │
 [UNFIXABLE] │       │               │                    │ Swedish folk. ’Twas spread      │
 [UNFIXABLE] │       │               │                    │ afar<br/>                       │
-[UNFIXABLE] │       │               │                    │                          how    │
+[UNFIXABLE] │       │               │                    │                         how     │
 [UNFIXABLE] │       │               │                    │ Ongentheow reft at              │
 [UNFIXABLE] │       │               │                    │ Ravenswood<br/>                 │
-[UNFIXABLE] │       │               │                    │                          Haeth… │
+[UNFIXABLE] │       │               │                    │                         Haethc… │
 [UNFIXABLE] │       │               │                    │ Hrethling of hope and           │
 [UNFIXABLE] │       │               │                    │ life,<br/>                      │
-[UNFIXABLE] │       │               │                    │                          when   │
+[UNFIXABLE] │       │               │                    │                         when    │
 [UNFIXABLE] │       │               │                    │ the folk of Geats for the first │
 [UNFIXABLE] │       │               │                    │ time sought<br/>                │
-[UNFIXABLE] │       │               │                    │                          in     │
+[UNFIXABLE] │       │               │                    │                         in      │
 [UNFIXABLE] │       │               │                    │ wanton pride the                │
 [UNFIXABLE] │       │               │                    │ Warlike-Scylfings.<br/>         │
-[UNFIXABLE] │       │               │                    │                          Soon   │
+[UNFIXABLE] │       │               │                    │                         Soon    │
 [UNFIXABLE] │       │               │                    │ the sage old sire <a            │
 [UNFIXABLE] │       │               │                    │ href="endnotes.xhtml#note-112"  │
 [UNFIXABLE] │       │               │                    │ id="noteref-112"                │
@@ -267,22 +266,22 @@ Generated: 2026-06-15 22:39:50
 [UNFIXABLE] │       │               │                    │                         ancient │
 [UNFIXABLE] │       │               │                    │ and awful, gave answering       │
 [UNFIXABLE] │       │               │                    │ blow;<br/>                      │
-[UNFIXABLE] │       │               │                    │                          the    │
+[UNFIXABLE] │       │               │                    │                         the     │
 [UNFIXABLE] │       │               │                    │ sea-king <a                     │
 [UNFIXABLE] │       │               │                    │ href="endnotes.xhtml#note-113"  │
 [UNFIXABLE] │       │               │                    │ id="noteref-113"                │
 [UNFIXABLE] │       │               │                    │ epub:type="noteref">38f</a> he  │
 [UNFIXABLE] │       │               │                    │ slew, and his spouse            │
 [UNFIXABLE] │       │               │                    │ redeemed,<br/>                  │
-[UNFIXABLE] │       │               │                    │                          his    │
+[UNFIXABLE] │       │               │                    │                         his     │
 [UNFIXABLE] │       │               │                    │ good wife rescued, though       │
 [UNFIXABLE] │       │               │                    │ robbed of her gold,<br/>        │
-[UNFIXABLE] │       │               │                    │                          mother │
+[UNFIXABLE] │       │               │                    │                         mother  │
 [UNFIXABLE] │       │               │                    │ of Ohtere and Onela.<br/>       │
-[UNFIXABLE] │       │               │                    │                          Then   │
-[UNFIXABLE] │       │               │                    │ he followed his foes, who fled  │
+[UNFIXABLE] │       │               │                    │                         Then he │
+[UNFIXABLE] │       │               │                    │ followed his foes, who fled     │
 [UNFIXABLE] │       │               │                    │ before him<br/>                 │
-[UNFIXABLE] │       │               │                    │                          sore   │
+[UNFIXABLE] │       │               │                    │                         sore    │
 [UNFIXABLE] │       │               │                    │ beset and stole their way,<br/> │
 [UNFIXABLE] │       │               │                    │                         bereft  │
 [UNFIXABLE] │       │               │                    │ of a ruler, to Ravenswood.</p>  │
@@ -786,337 +785,334 @@ Generated: 2026-06-15 22:39:50
 [UNFIXABLE] │       │               │                    │ doesn’t begin with “.           │
 [UNFIXABLE] │       │               │          Line 1236 │ <p>THEN hastened those heroes   │
 [UNFIXABLE] │       │               │                    │ their home to see,<br/>         │
-[UNFIXABLE] │       │               │                    │                          frien… │
+[UNFIXABLE] │       │               │                    │                         friend… │
 [UNFIXABLE] │       │               │                    │ to find the Frisian land,<br/>  │
-[UNFIXABLE] │       │               │                    │                          houses │
+[UNFIXABLE] │       │               │                    │                         houses  │
 [UNFIXABLE] │       │               │                    │ and high burg. Hengest          │
 [UNFIXABLE] │       │               │                    │ still<br/>                      │
-[UNFIXABLE] │       │               │                    │                          throu… │
+[UNFIXABLE] │       │               │                    │                         through │
 [UNFIXABLE] │       │               │                    │ the death-dyed winter dwelt     │
 [UNFIXABLE] │       │               │                    │ with Finn,<br/>                 │
-[UNFIXABLE] │       │               │                    │                          holdi… │
+[UNFIXABLE] │       │               │                    │                         holding │
 [UNFIXABLE] │       │               │                    │ pact, yet of home he            │
 [UNFIXABLE] │       │               │                    │ minded,<br/>                    │
-[UNFIXABLE] │       │               │                    │                          though │
+[UNFIXABLE] │       │               │                    │                         though  │
 [UNFIXABLE] │       │               │                    │ powerless his ring-decked prow  │
 [UNFIXABLE] │       │               │                    │ to drive<br/>                   │
-[UNFIXABLE] │       │               │                    │                          over   │
+[UNFIXABLE] │       │               │                    │                         over    │
 [UNFIXABLE] │       │               │                    │ the waters, now waves rolled    │
 [UNFIXABLE] │       │               │                    │ fierce<br/>                     │
-[UNFIXABLE] │       │               │                    │                          lashed │
+[UNFIXABLE] │       │               │                    │                         lashed  │
 [UNFIXABLE] │       │               │                    │ by the winds, or winter locked  │
 [UNFIXABLE] │       │               │                    │ them<br/>                       │
-[UNFIXABLE] │       │               │                    │                          in icy │
+[UNFIXABLE] │       │               │                    │                         in icy  │
 [UNFIXABLE] │       │               │                    │ fetters. Then fared             │
 [UNFIXABLE] │       │               │                    │ another<br/>                    │
-[UNFIXABLE] │       │               │                    │                          year   │
-[UNFIXABLE] │       │               │                    │ to men’s dwellings, as yet they │
+[UNFIXABLE] │       │               │                    │                         year to │
+[UNFIXABLE] │       │               │                    │ men’s dwellings, as yet they    │
 [UNFIXABLE] │       │               │                    │ do,<br/>                        │
-[UNFIXABLE] │       │               │                    │                          the    │
+[UNFIXABLE] │       │               │                    │                         the     │
 [UNFIXABLE] │       │               │                    │ sunbright skies, that their     │
 [UNFIXABLE] │       │               │                    │ season ever<br/>                │
-[UNFIXABLE] │       │               │                    │                          duly   │
+[UNFIXABLE] │       │               │                    │                         duly    │
 [UNFIXABLE] │       │               │                    │ await. Far off winter was       │
 [UNFIXABLE] │       │               │                    │ driven;<br/>                    │
-[UNFIXABLE] │       │               │                    │                          fair   │
+[UNFIXABLE] │       │               │                    │                         fair    │
 [UNFIXABLE] │       │               │                    │ lay earth’s breast; and fain    │
 [UNFIXABLE] │       │               │                    │ was the rover,<br/>             │
-[UNFIXABLE] │       │               │                    │                          the    │
+[UNFIXABLE] │       │               │                    │                         the     │
 [UNFIXABLE] │       │               │                    │ guest, to depart, though more   │
 [UNFIXABLE] │       │               │                    │ gladly he pondered<br/>         │
-[UNFIXABLE] │       │               │                    │                          on     │
+[UNFIXABLE] │       │               │                    │                         on      │
 [UNFIXABLE] │       │               │                    │ wreaking his vengeance than     │
 [UNFIXABLE] │       │               │                    │ roaming the deep,<br/>          │
 [UNFIXABLE] │       │               │                    │                         and how │
 [UNFIXABLE] │       │               │                    │ to hasten the hot               │
 [UNFIXABLE] │       │               │                    │ encounter<br/>                  │
-[UNFIXABLE] │       │               │                    │                          where  │
+[UNFIXABLE] │       │               │                    │                         where   │
 [UNFIXABLE] │       │               │                    │ sons of the Frisians were sure  │
 [UNFIXABLE] │       │               │                    │ to be.<br/>                     │
-[UNFIXABLE] │       │               │                    │                          So he  │
+[UNFIXABLE] │       │               │                    │                         So he   │
 [UNFIXABLE] │       │               │                    │ escaped not the common          │
 [UNFIXABLE] │       │               │                    │ doom,<br/>                      │
-[UNFIXABLE] │       │               │                    │                          when   │
+[UNFIXABLE] │       │               │                    │                         when    │
 [UNFIXABLE] │       │               │                    │ Hun with “Lafing,” the          │
 [UNFIXABLE] │       │               │                    │ light-of-battle,<br/>           │
-[UNFIXABLE] │       │               │                    │                          best   │
-[UNFIXABLE] │       │               │                    │ of blades, his bosom            │
-[UNFIXABLE] │       │               │                    │ pierced:<br/>                   │
-[UNFIXABLE] │       │               │                    │                          its    │
+[UNFIXABLE] │       │               │                    │                         best of │
+[UNFIXABLE] │       │               │                    │ blades, his bosom pierced:<br/> │
+[UNFIXABLE] │       │               │                    │                         its     │
 [UNFIXABLE] │       │               │                    │ edge was famed with the Frisian │
 [UNFIXABLE] │       │               │                    │ earls.<br/>                     │
-[UNFIXABLE] │       │               │                    │                          On     │
+[UNFIXABLE] │       │               │                    │                         On      │
 [UNFIXABLE] │       │               │                    │ fierce-heart Finn there fell    │
 [UNFIXABLE] │       │               │                    │ likewise,<br/>                  │
-[UNFIXABLE] │       │               │                    │                          on     │
+[UNFIXABLE] │       │               │                    │                         on      │
 [UNFIXABLE] │       │               │                    │ himself at home, the horrid     │
 [UNFIXABLE] │       │               │                    │ sword-death;<br/>               │
-[UNFIXABLE] │       │               │                    │                          for    │
+[UNFIXABLE] │       │               │                    │                         for     │
 [UNFIXABLE] │       │               │                    │ Guthlaf and Oslaf of grim       │
 [UNFIXABLE] │       │               │                    │ attack<br/>                     │
-[UNFIXABLE] │       │               │                    │                          had    │
+[UNFIXABLE] │       │               │                    │                         had     │
 [UNFIXABLE] │       │               │                    │ sorrowing told, from sea-ways   │
 [UNFIXABLE] │       │               │                    │ landed,<br/>                    │
-[UNFIXABLE] │       │               │                    │                          mourn… │
+[UNFIXABLE] │       │               │                    │                         mourni… │
 [UNFIXABLE] │       │               │                    │ their woes. <a                  │
 [UNFIXABLE] │       │               │                    │ href="endnotes.xhtml#note-57"   │
 [UNFIXABLE] │       │               │                    │ id="noteref-57"                 │
 [UNFIXABLE] │       │               │                    │ epub:type="noteref">17a</a>     │
 [UNFIXABLE] │       │               │                    │ Finn’s wavering spirit<br/>     │
-[UNFIXABLE] │       │               │                    │                          bode   │
+[UNFIXABLE] │       │               │                    │                         bode    │
 [UNFIXABLE] │       │               │                    │ not in breast. The burg was     │
 [UNFIXABLE] │       │               │                    │ reddened<br/>                   │
-[UNFIXABLE] │       │               │                    │                          with   │
+[UNFIXABLE] │       │               │                    │                         with    │
 [UNFIXABLE] │       │               │                    │ blood of foemen, and Finn was   │
 [UNFIXABLE] │       │               │                    │ slain,<br/>                     │
-[UNFIXABLE] │       │               │                    │                          king   │
+[UNFIXABLE] │       │               │                    │                         king    │
 [UNFIXABLE] │       │               │                    │ amid clansmen; the queen was    │
 [UNFIXABLE] │       │               │                    │ taken.<br/>                     │
-[UNFIXABLE] │       │               │                    │                          To     │
+[UNFIXABLE] │       │               │                    │                         To      │
 [UNFIXABLE] │       │               │                    │ their ship the Scylding         │
 [UNFIXABLE] │       │               │                    │ warriors bore<br/>              │
-[UNFIXABLE] │       │               │                    │                          all    │
-[UNFIXABLE] │       │               │                    │ the chattels the chieftain      │
+[UNFIXABLE] │       │               │                    │                         all the │
+[UNFIXABLE] │       │               │                    │ chattels the chieftain          │
 [UNFIXABLE] │       │               │                    │ owned,<br/>                     │
-[UNFIXABLE] │       │               │                    │                          whate… │
+[UNFIXABLE] │       │               │                    │                         whatev… │
 [UNFIXABLE] │       │               │                    │ they found in Finn’s            │
 [UNFIXABLE] │       │               │                    │ domain<br/>                     │
-[UNFIXABLE] │       │               │                    │                          of     │
-[UNFIXABLE] │       │               │                    │ gems and jewels. The gentle     │
+[UNFIXABLE] │       │               │                    │                         of gems │
+[UNFIXABLE] │       │               │                    │ and jewels. The gentle          │
 [UNFIXABLE] │       │               │                    │ wife<br/>                       │
-[UNFIXABLE] │       │               │                    │                          o’er   │
+[UNFIXABLE] │       │               │                    │                         o’er    │
 [UNFIXABLE] │       │               │                    │ paths of the deep to the Danes  │
 [UNFIXABLE] │       │               │                    │ they bore,<br/>                 │
-[UNFIXABLE] │       │               │                    │                          led to │
+[UNFIXABLE] │       │               │                    │                         led to  │
 [UNFIXABLE] │       │               │                    │ her land.<br/>                  │
-[UNFIXABLE] │       │               │                    │                          The    │
-[UNFIXABLE] │       │               │                    │ lay was finished,<br/>          │
-[UNFIXABLE] │       │               │                    │                          the    │
+[UNFIXABLE] │       │               │                    │                         The lay │
+[UNFIXABLE] │       │               │                    │ was finished,<br/>              │
+[UNFIXABLE] │       │               │                    │                         the     │
 [UNFIXABLE] │       │               │                    │ gleeman’s song. Then glad rose  │
 [UNFIXABLE] │       │               │                    │ the revel;<br/>                 │
 [UNFIXABLE] │       │               │                    │                         bench-… │
 [UNFIXABLE] │       │               │                    │ brightened. Bearers draw<br/>   │
-[UNFIXABLE] │       │               │                    │                          from   │
+[UNFIXABLE] │       │               │                    │                         from    │
 [UNFIXABLE] │       │               │                    │ their “wonder-vats” wine. Comes │
 [UNFIXABLE] │       │               │                    │ Wealhtheow forth,<br/>          │
-[UNFIXABLE] │       │               │                    │                          under  │
+[UNFIXABLE] │       │               │                    │                         under   │
 [UNFIXABLE] │       │               │                    │ gold-crown goes where the good  │
 [UNFIXABLE] │       │               │                    │ pair sit,<br/>                  │
-[UNFIXABLE] │       │               │                    │                          uncle  │
+[UNFIXABLE] │       │               │                    │                         uncle   │
 [UNFIXABLE] │       │               │                    │ and nephew, true each to the    │
 [UNFIXABLE] │       │               │                    │ other one,<br/>                 │
-[UNFIXABLE] │       │               │                    │                          kindr… │
+[UNFIXABLE] │       │               │                    │                         kindred │
 [UNFIXABLE] │       │               │                    │ in amity. Unferth the           │
 [UNFIXABLE] │       │               │                    │ spokesman<br/>                  │
-[UNFIXABLE] │       │               │                    │                          at the │
+[UNFIXABLE] │       │               │                    │                         at the  │
 [UNFIXABLE] │       │               │                    │ Scylding lord’s feet sat: men   │
 [UNFIXABLE] │       │               │                    │ had faith in his spirit,<br/>   │
-[UNFIXABLE] │       │               │                    │                          his    │
+[UNFIXABLE] │       │               │                    │                         his     │
 [UNFIXABLE] │       │               │                    │ keenness of courage, though     │
 [UNFIXABLE] │       │               │                    │ kinsmen had found him<br/>      │
-[UNFIXABLE] │       │               │                    │                          unsure │
+[UNFIXABLE] │       │               │                    │                         unsure  │
 [UNFIXABLE] │       │               │                    │ at the sword-play. The Scylding │
 [UNFIXABLE] │       │               │                    │ queen spoke:<br/>               │
-[UNFIXABLE] │       │               │                    │                          “Quaff │
+[UNFIXABLE] │       │               │                    │                         “Quaff  │
 [UNFIXABLE] │       │               │                    │ of this cup, my king and        │
 [UNFIXABLE] │       │               │                    │ lord,<br/>                      │
-[UNFIXABLE] │       │               │                    │                          break… │
+[UNFIXABLE] │       │               │                    │                         breaker │
 [UNFIXABLE] │       │               │                    │ of rings, and blithe be         │
 [UNFIXABLE] │       │               │                    │ thou,<br/>                      │
-[UNFIXABLE] │       │               │                    │                          gold-… │
+[UNFIXABLE] │       │               │                    │                         gold-f… │
 [UNFIXABLE] │       │               │                    │ of men; to the Geats here       │
 [UNFIXABLE] │       │               │                    │ speak<br/>                      │
-[UNFIXABLE] │       │               │                    │                          such   │
+[UNFIXABLE] │       │               │                    │                         such    │
 [UNFIXABLE] │       │               │                    │ words of mildness as man should │
 [UNFIXABLE] │       │               │                    │ use.<br/>                       │
-[UNFIXABLE] │       │               │                    │                          Be     │
-[UNFIXABLE] │       │               │                    │ glad with thy Geats; of those   │
-[UNFIXABLE] │       │               │                    │ gifts be mindful,<br/>          │
-[UNFIXABLE] │       │               │                    │                          or     │
-[UNFIXABLE] │       │               │                    │ near or far, which now thou     │
+[UNFIXABLE] │       │               │                    │                         Be glad │
+[UNFIXABLE] │       │               │                    │ with thy Geats; of those gifts  │
+[UNFIXABLE] │       │               │                    │ be mindful,<br/>                │
+[UNFIXABLE] │       │               │                    │                         or near │
+[UNFIXABLE] │       │               │                    │ or far, which now thou          │
 [UNFIXABLE] │       │               │                    │ hast.</p>                       │
 [UNFIXABLE] │       │               │          Line 1807 │ <p>BEOWULF spake, bairn of      │
 [UNFIXABLE] │       │               │                    │ Ecgtheow:⁠—<br/>                 │
-[UNFIXABLE] │       │               │                    │                          “Lo,   │
+[UNFIXABLE] │       │               │                    │                         “Lo,    │
 [UNFIXABLE] │       │               │                    │ now, this sea-booty, son of     │
 [UNFIXABLE] │       │               │                    │ Healfdene,<br/>                 │
-[UNFIXABLE] │       │               │                    │                          Lord   │
-[UNFIXABLE] │       │               │                    │ of Scyldings, we’ve lustily     │
+[UNFIXABLE] │       │               │                    │                         Lord of │
+[UNFIXABLE] │       │               │                    │ Scyldings, we’ve lustily        │
 [UNFIXABLE] │       │               │                    │ brought thee,<br/>              │
-[UNFIXABLE] │       │               │                    │                          sign   │
-[UNFIXABLE] │       │               │                    │ of glory; thou seest it         │
-[UNFIXABLE] │       │               │                    │ here.<br/>                      │
-[UNFIXABLE] │       │               │                    │                          Not    │
+[UNFIXABLE] │       │               │                    │                         sign of │
+[UNFIXABLE] │       │               │                    │ glory; thou seest it here.<br/> │
+[UNFIXABLE] │       │               │                    │                         Not     │
 [UNFIXABLE] │       │               │                    │ lightly did I with my life      │
 [UNFIXABLE] │       │               │                    │ escape!<br/>                    │
-[UNFIXABLE] │       │               │                    │                          In war │
+[UNFIXABLE] │       │               │                    │                         In war  │
 [UNFIXABLE] │       │               │                    │ under water this work I         │
 [UNFIXABLE] │       │               │                    │ essayed<br/>                    │
-[UNFIXABLE] │       │               │                    │                          with   │
+[UNFIXABLE] │       │               │                    │                         with    │
 [UNFIXABLE] │       │               │                    │ endless effort; and even        │
 [UNFIXABLE] │       │               │                    │ so<br/>                         │
-[UNFIXABLE] │       │               │                    │                          my     │
+[UNFIXABLE] │       │               │                    │                         my      │
 [UNFIXABLE] │       │               │                    │ strength had been lost had the  │
 [UNFIXABLE] │       │               │                    │ Lord not shielded me.<br/>      │
-[UNFIXABLE] │       │               │                    │                          Not a  │
+[UNFIXABLE] │       │               │                    │                         Not a   │
 [UNFIXABLE] │       │               │                    │ whit could I with Hrunting      │
 [UNFIXABLE] │       │               │                    │ do<br/>                         │
-[UNFIXABLE] │       │               │                    │                          in     │
-[UNFIXABLE] │       │               │                    │ work of war, though the weapon  │
-[UNFIXABLE] │       │               │                    │ is good;<br/>                   │
-[UNFIXABLE] │       │               │                    │                          yet a  │
+[UNFIXABLE] │       │               │                    │                         in work │
+[UNFIXABLE] │       │               │                    │ of war, though the weapon is    │
+[UNFIXABLE] │       │               │                    │ good;<br/>                      │
+[UNFIXABLE] │       │               │                    │                         yet a   │
 [UNFIXABLE] │       │               │                    │ sword the Sovran of Men         │
 [UNFIXABLE] │       │               │                    │ vouchsafed me<br/>              │
-[UNFIXABLE] │       │               │                    │                          to spy │
+[UNFIXABLE] │       │               │                    │                         to spy  │
 [UNFIXABLE] │       │               │                    │ on the wall there, in splendor  │
 [UNFIXABLE] │       │               │                    │ hanging,<br/>                   │
 [UNFIXABLE] │       │               │                    │                         old,    │
 [UNFIXABLE] │       │               │                    │ gigantic⁠—how oft He guides<br/> │
-[UNFIXABLE] │       │               │                    │                          the    │
+[UNFIXABLE] │       │               │                    │                         the     │
 [UNFIXABLE] │       │               │                    │ friendless wight!⁠—and I fought  │
 [UNFIXABLE] │       │               │                    │ with that brand,<br/>           │
-[UNFIXABLE] │       │               │                    │                          felli… │
+[UNFIXABLE] │       │               │                    │                         felling │
 [UNFIXABLE] │       │               │                    │ in fight, since fate was with   │
 [UNFIXABLE] │       │               │                    │ me,<br/>                        │
 [UNFIXABLE] │       │               │                    │                         the     │
 [UNFIXABLE] │       │               │                    │ house’s wardens. That war-sword │
 [UNFIXABLE] │       │               │                    │ then<br/>                       │
-[UNFIXABLE] │       │               │                    │                          all    │
+[UNFIXABLE] │       │               │                    │                         all     │
 [UNFIXABLE] │       │               │                    │ burned, bright blade, when the  │
 [UNFIXABLE] │       │               │                    │ blood gushed o’er it,<br/>      │
-[UNFIXABLE] │       │               │                    │                          battl… │
+[UNFIXABLE] │       │               │                    │                         battle… │
 [UNFIXABLE] │       │               │                    │ hot; but the hilt I brought     │
 [UNFIXABLE] │       │               │                    │ back<br/>                       │
-[UNFIXABLE] │       │               │                    │                          from   │
-[UNFIXABLE] │       │               │                    │ my foes. So avenged I their     │
+[UNFIXABLE] │       │               │                    │                         from my │
+[UNFIXABLE] │       │               │                    │ foes. So avenged I their        │
 [UNFIXABLE] │       │               │                    │ fiendish deeds<br/>             │
 [UNFIXABLE] │       │               │                    │                         death-… │
 [UNFIXABLE] │       │               │                    │ of Danes, as was due and        │
 [UNFIXABLE] │       │               │                    │ right.<br/>                     │
-[UNFIXABLE] │       │               │                    │                          And    │
+[UNFIXABLE] │       │               │                    │                         And     │
 [UNFIXABLE] │       │               │                    │ this is my hest, that in Heorot │
 [UNFIXABLE] │       │               │                    │ now<br/>                        │
-[UNFIXABLE] │       │               │                    │                          safe   │
+[UNFIXABLE] │       │               │                    │                         safe    │
 [UNFIXABLE] │       │               │                    │ thou canst sleep with thy       │
 [UNFIXABLE] │       │               │                    │ soldier band,<br/>              │
-[UNFIXABLE] │       │               │                    │                          and    │
+[UNFIXABLE] │       │               │                    │                         and     │
 [UNFIXABLE] │       │               │                    │ every thane of all thy          │
 [UNFIXABLE] │       │               │                    │ folk<br/>                       │
-[UNFIXABLE] │       │               │                    │                          both   │
+[UNFIXABLE] │       │               │                    │                         both    │
 [UNFIXABLE] │       │               │                    │ old and young; no evil          │
 [UNFIXABLE] │       │               │                    │ fear,<br/>                      │
 [UNFIXABLE] │       │               │                    │                         Scyldi… │
 [UNFIXABLE] │       │               │                    │ lord, from that side            │
 [UNFIXABLE] │       │               │                    │ again,<br/>                     │
-[UNFIXABLE] │       │               │                    │                          aught  │
+[UNFIXABLE] │       │               │                    │                         aught   │
 [UNFIXABLE] │       │               │                    │ ill for thy earls, as erst thou │
 [UNFIXABLE] │       │               │                    │ must!”<br/>                     │
-[UNFIXABLE] │       │               │                    │                          Then   │
+[UNFIXABLE] │       │               │                    │                         Then    │
 [UNFIXABLE] │       │               │                    │ the golden hilt, for that       │
 [UNFIXABLE] │       │               │                    │ gray-haired leader,<br/>        │
-[UNFIXABLE] │       │               │                    │                          hoary  │
+[UNFIXABLE] │       │               │                    │                         hoary   │
 [UNFIXABLE] │       │               │                    │ hero, in hand was laid,<br/>    │
-[UNFIXABLE] │       │               │                    │                          giant… │
+[UNFIXABLE] │       │               │                    │                         giant-… │
 [UNFIXABLE] │       │               │                    │ old. So owned and enjoyed       │
 [UNFIXABLE] │       │               │                    │ it<br/>                         │
-[UNFIXABLE] │       │               │                    │                          after  │
+[UNFIXABLE] │       │               │                    │                         after   │
 [UNFIXABLE] │       │               │                    │ downfall of devils, the Danish  │
 [UNFIXABLE] │       │               │                    │ lord,<br/>                      │
 [UNFIXABLE] │       │               │                    │                         wonder… │
 [UNFIXABLE] │       │               │                    │ work, since the world was       │
 [UNFIXABLE] │       │               │                    │ rid<br/>                        │
-[UNFIXABLE] │       │               │                    │                          of     │
-[UNFIXABLE] │       │               │                    │ that grim-souled fiend, the foe │
-[UNFIXABLE] │       │               │                    │ of God,<br/>                    │
-[UNFIXABLE] │       │               │                    │                          murde… │
+[UNFIXABLE] │       │               │                    │                         of that │
+[UNFIXABLE] │       │               │                    │ grim-souled fiend, the foe of   │
+[UNFIXABLE] │       │               │                    │ God,<br/>                       │
+[UNFIXABLE] │       │               │                    │                         murder… │
 [UNFIXABLE] │       │               │                    │ and his mother as well.<br/>    │
-[UNFIXABLE] │       │               │                    │                          Now it │
+[UNFIXABLE] │       │               │                    │                         Now it  │
 [UNFIXABLE] │       │               │                    │ passed into power of the        │
 [UNFIXABLE] │       │               │                    │ people’s king,<br/>             │
-[UNFIXABLE] │       │               │                    │                          best   │
-[UNFIXABLE] │       │               │                    │ of all that the oceans          │
-[UNFIXABLE] │       │               │                    │ bound<br/>                      │
-[UNFIXABLE] │       │               │                    │                          who    │
+[UNFIXABLE] │       │               │                    │                         best of │
+[UNFIXABLE] │       │               │                    │ all that the oceans bound<br/>  │
+[UNFIXABLE] │       │               │                    │                         who     │
 [UNFIXABLE] │       │               │                    │ have scattered their gold o’er  │
 [UNFIXABLE] │       │               │                    │ Scandia’s isle.<br/>            │
-[UNFIXABLE] │       │               │                    │                          Hroth… │
+[UNFIXABLE] │       │               │                    │                         Hrothg… │
 [UNFIXABLE] │       │               │                    │ spake⁠—the hilt he viewed,<br/>  │
 [UNFIXABLE] │       │               │                    │                         heirlo… │
 [UNFIXABLE] │       │               │                    │ old, where was etched the       │
 [UNFIXABLE] │       │               │                    │ rise<br/>                       │
-[UNFIXABLE] │       │               │                    │                          of     │
-[UNFIXABLE] │       │               │                    │ that far-off fight when the     │
-[UNFIXABLE] │       │               │                    │ floods o’erwhelmed,<br/>        │
-[UNFIXABLE] │       │               │                    │                          raging │
+[UNFIXABLE] │       │               │                    │                         of that │
+[UNFIXABLE] │       │               │                    │ far-off fight when the floods   │
+[UNFIXABLE] │       │               │                    │ o’erwhelmed,<br/>               │
+[UNFIXABLE] │       │               │                    │                         raging  │
 [UNFIXABLE] │       │               │                    │ waves, the race of giants<br/>  │
 [UNFIXABLE] │       │               │                    │                         (fearf… │
 [UNFIXABLE] │       │               │                    │ their fate!), a folk            │
 [UNFIXABLE] │       │               │                    │ estranged<br/>                  │
-[UNFIXABLE] │       │               │                    │                          from   │
+[UNFIXABLE] │       │               │                    │                         from    │
 [UNFIXABLE] │       │               │                    │ God Eternal: whence guerdon     │
 [UNFIXABLE] │       │               │                    │ due<br/>                        │
-[UNFIXABLE] │       │               │                    │                          in     │
-[UNFIXABLE] │       │               │                    │ that waste of waters the        │
-[UNFIXABLE] │       │               │                    │ Wielder paid them.<br/>         │
-[UNFIXABLE] │       │               │                    │                          So on  │
+[UNFIXABLE] │       │               │                    │                         in that │
+[UNFIXABLE] │       │               │                    │ waste of waters the Wielder     │
+[UNFIXABLE] │       │               │                    │ paid them.<br/>                 │
+[UNFIXABLE] │       │               │                    │                         So on   │
 [UNFIXABLE] │       │               │                    │ the guard of shining gold<br/>  │
-[UNFIXABLE] │       │               │                    │                          in     │
+[UNFIXABLE] │       │               │                    │                         in      │
 [UNFIXABLE] │       │               │                    │ runic staves it was rightly     │
 [UNFIXABLE] │       │               │                    │ said<br/>                       │
 [UNFIXABLE] │       │               │                    │                         for     │
 [UNFIXABLE] │       │               │                    │ whom the serpent-traced sword   │
 [UNFIXABLE] │       │               │                    │ was wrought,<br/>               │
-[UNFIXABLE] │       │               │                    │                          best   │
-[UNFIXABLE] │       │               │                    │ of blades, in bygone days,<br/> │
-[UNFIXABLE] │       │               │                    │                          and    │
-[UNFIXABLE] │       │               │                    │ the hilt well wound.⁠—⁠The        │
-[UNFIXABLE] │       │               │                    │ wise-one spake,<br/>            │
-[UNFIXABLE] │       │               │                    │                          son of │
+[UNFIXABLE] │       │               │                    │                         best of │
+[UNFIXABLE] │       │               │                    │ blades, in bygone days,<br/>    │
+[UNFIXABLE] │       │               │                    │                         and the │
+[UNFIXABLE] │       │               │                    │ hilt well wound.⁠—The wise-one   │
+[UNFIXABLE] │       │               │                    │ spake,<br/>                     │
+[UNFIXABLE] │       │               │                    │                         son of  │
 [UNFIXABLE] │       │               │                    │ Healfdene; silent were          │
 [UNFIXABLE] │       │               │                    │ all:⁠—<br/>                      │
-[UNFIXABLE] │       │               │                    │                          “Lo,   │
-[UNFIXABLE] │       │               │                    │ so may he say who sooth and     │
+[UNFIXABLE] │       │               │                    │                         “Lo, so │
+[UNFIXABLE] │       │               │                    │ may he say who sooth and        │
 [UNFIXABLE] │       │               │                    │ right<br/>                      │
-[UNFIXABLE] │       │               │                    │                          follo… │
+[UNFIXABLE] │       │               │                    │                         follows │
 [UNFIXABLE] │       │               │                    │ ’mid folk, of far times         │
 [UNFIXABLE] │       │               │                    │ mindful,<br/>                   │
-[UNFIXABLE] │       │               │                    │                          a      │
+[UNFIXABLE] │       │               │                    │                         a       │
 [UNFIXABLE] │       │               │                    │ land-warden old, <a             │
 [UNFIXABLE] │       │               │                    │ href="endnotes.xhtml#note-70"   │
 [UNFIXABLE] │       │               │                    │ id="noteref-70"                 │
 [UNFIXABLE] │       │               │                    │ epub:type="noteref">24a</a>     │
 [UNFIXABLE] │       │               │                    │ that this earl belongs<br/>     │
-[UNFIXABLE] │       │               │                    │                          to the │
+[UNFIXABLE] │       │               │                    │                         to the  │
 [UNFIXABLE] │       │               │                    │ better breed! So, borne         │
 [UNFIXABLE] │       │               │                    │ aloft,<br/>                     │
-[UNFIXABLE] │       │               │                    │                          thy    │
+[UNFIXABLE] │       │               │                    │                         thy     │
 [UNFIXABLE] │       │               │                    │ fame must fly, O friend my      │
 [UNFIXABLE] │       │               │                    │ Beowulf,<br/>                   │
-[UNFIXABLE] │       │               │                    │                          far    │
-[UNFIXABLE] │       │               │                    │ and wide o’er folksteads many.  │
+[UNFIXABLE] │       │               │                    │                         far and │
+[UNFIXABLE] │       │               │                    │ wide o’er folksteads many.      │
 [UNFIXABLE] │       │               │                    │ Firmly thou<br/>                │
 [UNFIXABLE] │       │               │                    │                         shalt   │
 [UNFIXABLE] │       │               │                    │ all maintain,<br/>              │
-[UNFIXABLE] │       │               │                    │                          mighty │
+[UNFIXABLE] │       │               │                    │                         mighty  │
 [UNFIXABLE] │       │               │                    │ strength with mood of wisdom.   │
 [UNFIXABLE] │       │               │                    │ Love of<br/>                    │
 [UNFIXABLE] │       │               │                    │                         mine    │
 [UNFIXABLE] │       │               │                    │ will I assure thee,<br/>        │
-[UNFIXABLE] │       │               │                    │                          as,    │
+[UNFIXABLE] │       │               │                    │                         as,     │
 [UNFIXABLE] │       │               │                    │ awhile ago, I promised; thou    │
 [UNFIXABLE] │       │               │                    │ shalt prove a stay<br/>         │
-[UNFIXABLE] │       │               │                    │                          in     │
+[UNFIXABLE] │       │               │                    │                         in      │
 [UNFIXABLE] │       │               │                    │ future,<br/>                    │
-[UNFIXABLE] │       │               │                    │                          in     │
+[UNFIXABLE] │       │               │                    │                         in      │
 [UNFIXABLE] │       │               │                    │ far-off years, to folk of       │
 [UNFIXABLE] │       │               │                    │ thine,<br/>                     │
-[UNFIXABLE] │       │               │                    │                          to the │
+[UNFIXABLE] │       │               │                    │                         to the  │
 [UNFIXABLE] │       │               │                    │ heroes a help. Was not Heremod  │
 [UNFIXABLE] │       │               │                    │ thus<br/>                       │
-[UNFIXABLE] │       │               │                    │                          to     │
+[UNFIXABLE] │       │               │                    │                         to      │
 [UNFIXABLE] │       │               │                    │ offspring of Ecgwela,           │
 [UNFIXABLE] │       │               │                    │ Honor-Scyldings,<br/>           │
-[UNFIXABLE] │       │               │                    │                          nor    │
+[UNFIXABLE] │       │               │                    │                         nor     │
 [UNFIXABLE] │       │               │                    │ grew for their grace, but for   │
 [UNFIXABLE] │       │               │                    │ grisly slaughter,<br/>          │
 [UNFIXABLE] │       │               │                    │                         for     │
@@ -1124,127 +1120,125 @@ Generated: 2026-06-15 22:39:50
 [UNFIXABLE] │       │               │                    │ Danishmen.</p>                  │
 [UNFIXABLE] │       │               │          Line 1989 │ <p>BEOWULF spake, bairn of      │
 [UNFIXABLE] │       │               │                    │ Ecgtheow:⁠—<br/>                 │
-[UNFIXABLE] │       │               │                    │                          “Lo,   │
-[UNFIXABLE] │       │               │                    │ we seafarers say our will,<br/> │
-[UNFIXABLE] │       │               │                    │                          far-c… │
+[UNFIXABLE] │       │               │                    │                         “Lo, we │
+[UNFIXABLE] │       │               │                    │ seafarers say our will,<br/>    │
+[UNFIXABLE] │       │               │                    │                         far-co… │
 [UNFIXABLE] │       │               │                    │ men, that we fain would         │
 [UNFIXABLE] │       │               │                    │ seek<br/>                       │
-[UNFIXABLE] │       │               │                    │                          Hygel… │
+[UNFIXABLE] │       │               │                    │                         Hygelac │
 [UNFIXABLE] │       │               │                    │ now. We here have found<br/>    │
-[UNFIXABLE] │       │               │                    │                          hosts  │
+[UNFIXABLE] │       │               │                    │                         hosts   │
 [UNFIXABLE] │       │               │                    │ to our heart: thou hast         │
 [UNFIXABLE] │       │               │                    │ harbored us well.<br/>          │
-[UNFIXABLE] │       │               │                    │                          If     │
-[UNFIXABLE] │       │               │                    │ ever on earth I am able to win  │
+[UNFIXABLE] │       │               │                    │                         If ever │
+[UNFIXABLE] │       │               │                    │ on earth I am able to win       │
 [UNFIXABLE] │       │               │                    │ me<br/>                         │
-[UNFIXABLE] │       │               │                    │                          more   │
-[UNFIXABLE] │       │               │                    │ of thy love, O lord of          │
-[UNFIXABLE] │       │               │                    │ men,<br/>                       │
+[UNFIXABLE] │       │               │                    │                         more of │
+[UNFIXABLE] │       │               │                    │ thy love, O lord of men,<br/>   │
 [UNFIXABLE] │       │               │                    │                         aught   │
 [UNFIXABLE] │       │               │                    │ anew, than I now have           │
 [UNFIXABLE] │       │               │                    │ done,<br/>                      │
-[UNFIXABLE] │       │               │                    │                          for    │
+[UNFIXABLE] │       │               │                    │                         for     │
 [UNFIXABLE] │       │               │                    │ work of war I am willing        │
 [UNFIXABLE] │       │               │                    │ still!<br/>                     │
 [UNFIXABLE] │       │               │                    │                         If it   │
 [UNFIXABLE] │       │               │                    │ come to me ever across the      │
 [UNFIXABLE] │       │               │                    │ seas<br/>                       │
-[UNFIXABLE] │       │               │                    │                          that   │
+[UNFIXABLE] │       │               │                    │                         that    │
 [UNFIXABLE] │       │               │                    │ neighbor foemen annoy and       │
 [UNFIXABLE] │       │               │                    │ fright thee⁠—<br/>               │
-[UNFIXABLE] │       │               │                    │                          as     │
-[UNFIXABLE] │       │               │                    │ they that hate thee erewhile    │
-[UNFIXABLE] │       │               │                    │ have used⁠—<br/>                 │
+[UNFIXABLE] │       │               │                    │                         as they │
+[UNFIXABLE] │       │               │                    │ that hate thee erewhile have    │
+[UNFIXABLE] │       │               │                    │ used⁠—<br/>                      │
 [UNFIXABLE] │       │               │                    │                         thousa… │
 [UNFIXABLE] │       │               │                    │ then of thanes I shall          │
 [UNFIXABLE] │       │               │                    │ bring,<br/>                     │
-[UNFIXABLE] │       │               │                    │                          heroes │
+[UNFIXABLE] │       │               │                    │                         heroes  │
 [UNFIXABLE] │       │               │                    │ to help thee. Of Hygelac I      │
 [UNFIXABLE] │       │               │                    │ know,<br/>                      │
-[UNFIXABLE] │       │               │                    │                          ward   │
-[UNFIXABLE] │       │               │                    │ of his folk, that, though few   │
-[UNFIXABLE] │       │               │                    │ his years,<br/>                 │
+[UNFIXABLE] │       │               │                    │                         ward of │
+[UNFIXABLE] │       │               │                    │ his folk, that, though few his  │
+[UNFIXABLE] │       │               │                    │ years,<br/>                     │
 [UNFIXABLE] │       │               │                    │                         the     │
 [UNFIXABLE] │       │               │                    │ lord of the Geats will give me  │
 [UNFIXABLE] │       │               │                    │ aid<br/>                        │
-[UNFIXABLE] │       │               │                    │                          by     │
-[UNFIXABLE] │       │               │                    │ word and by work, that well I   │
-[UNFIXABLE] │       │               │                    │ may serve thee,<br/>            │
-[UNFIXABLE] │       │               │                    │                          wield… │
+[UNFIXABLE] │       │               │                    │                         by word │
+[UNFIXABLE] │       │               │                    │ and by work, that well I may    │
+[UNFIXABLE] │       │               │                    │ serve thee,<br/>                │
+[UNFIXABLE] │       │               │                    │                         wieldi… │
 [UNFIXABLE] │       │               │                    │ the war-wood to win thy         │
 [UNFIXABLE] │       │               │                    │ triumph<br/>                    │
-[UNFIXABLE] │       │               │                    │                          and    │
+[UNFIXABLE] │       │               │                    │                         and     │
 [UNFIXABLE] │       │               │                    │ lending thee might when thou    │
 [UNFIXABLE] │       │               │                    │ lackest men.<br/>               │
-[UNFIXABLE] │       │               │                    │                          If thy │
+[UNFIXABLE] │       │               │                    │                         If thy  │
 [UNFIXABLE] │       │               │                    │ Hrethric should come to court   │
 [UNFIXABLE] │       │               │                    │ of Geats,<br/>                  │
-[UNFIXABLE] │       │               │                    │                          a      │
+[UNFIXABLE] │       │               │                    │                         a       │
 [UNFIXABLE] │       │               │                    │ sovran’s son, he will surely    │
 [UNFIXABLE] │       │               │                    │ there<br/>                      │
 [UNFIXABLE] │       │               │                    │                         find    │
 [UNFIXABLE] │       │               │                    │ his friends. A far-off          │
 [UNFIXABLE] │       │               │                    │ land<br/>                       │
-[UNFIXABLE] │       │               │                    │                          each   │
+[UNFIXABLE] │       │               │                    │                         each    │
 [UNFIXABLE] │       │               │                    │ man should visit who vaunts him │
 [UNFIXABLE] │       │               │                    │ brave.”<br/>                    │
-[UNFIXABLE] │       │               │                    │                          Him    │
+[UNFIXABLE] │       │               │                    │                         Him     │
 [UNFIXABLE] │       │               │                    │ then answering, Hrothgar        │
 [UNFIXABLE] │       │               │                    │ spake:⁠—<br/>                    │
-[UNFIXABLE] │       │               │                    │                          “These │
+[UNFIXABLE] │       │               │                    │                         “These  │
 [UNFIXABLE] │       │               │                    │ words of thine the wisest       │
 [UNFIXABLE] │       │               │                    │ God<br/>                        │
-[UNFIXABLE] │       │               │                    │                          sent   │
-[UNFIXABLE] │       │               │                    │ to thy soul! No sager           │
-[UNFIXABLE] │       │               │                    │ counsel<br/>                    │
+[UNFIXABLE] │       │               │                    │                         sent to │
+[UNFIXABLE] │       │               │                    │ thy soul! No sager counsel<br/> │
 [UNFIXABLE] │       │               │                    │                         from so │
 [UNFIXABLE] │       │               │                    │ young in years e’er yet have I  │
 [UNFIXABLE] │       │               │                    │ heard.<br/>                     │
-[UNFIXABLE] │       │               │                    │                          Thou   │
+[UNFIXABLE] │       │               │                    │                         Thou    │
 [UNFIXABLE] │       │               │                    │ art strong of main and in mind  │
 [UNFIXABLE] │       │               │                    │ art wary,<br/>                  │
-[UNFIXABLE] │       │               │                    │                          art    │
+[UNFIXABLE] │       │               │                    │                         art     │
 [UNFIXABLE] │       │               │                    │ wise in words! I ween           │
 [UNFIXABLE] │       │               │                    │ indeed<br/>                     │
 [UNFIXABLE] │       │               │                    │                         if ever │
 [UNFIXABLE] │       │               │                    │ it hap that Hrethel’s heir<br/> │
-[UNFIXABLE] │       │               │                    │                          by     │
+[UNFIXABLE] │       │               │                    │                         by      │
 [UNFIXABLE] │       │               │                    │ spear be seized, by sword-grim  │
 [UNFIXABLE] │       │               │                    │ battle,<br/>                    │
-[UNFIXABLE] │       │               │                    │                          by     │
+[UNFIXABLE] │       │               │                    │                         by      │
 [UNFIXABLE] │       │               │                    │ illness or iron, thine elder    │
 [UNFIXABLE] │       │               │                    │ and lord,<br/>                  │
 [UNFIXABLE] │       │               │                    │                         people… │
 [UNFIXABLE] │       │               │                    │ leader⁠—and life be thine⁠—<br/>  │
-[UNFIXABLE] │       │               │                    │                          no     │
+[UNFIXABLE] │       │               │                    │                         no      │
 [UNFIXABLE] │       │               │                    │ seemlier man will the Sea-Geats │
 [UNFIXABLE] │       │               │                    │ find<br/>                       │
-[UNFIXABLE] │       │               │                    │                          at all │
+[UNFIXABLE] │       │               │                    │                         at all  │
 [UNFIXABLE] │       │               │                    │ to choose for their chief and   │
 [UNFIXABLE] │       │               │                    │ king,<br/>                      │
 [UNFIXABLE] │       │               │                    │                         for     │
 [UNFIXABLE] │       │               │                    │ hoard-guard of heroes, if hold  │
 [UNFIXABLE] │       │               │                    │ thou wilt<br/>                  │
-[UNFIXABLE] │       │               │                    │                          thy    │
+[UNFIXABLE] │       │               │                    │                         thy     │
 [UNFIXABLE] │       │               │                    │ kinsman’s kingdom! Thy keen     │
 [UNFIXABLE] │       │               │                    │ mind pleases me<br/>            │
-[UNFIXABLE] │       │               │                    │                          the    │
+[UNFIXABLE] │       │               │                    │                         the     │
 [UNFIXABLE] │       │               │                    │ longer the better, Beowulf      │
 [UNFIXABLE] │       │               │                    │ loved!</p>                      │
 [UNFIXABLE] │       │               │          Line 3137 │ <p>THAT battle-toil bade he at  │
 [UNFIXABLE] │       │               │                    │ burg to announce,<br/>          │
-[UNFIXABLE] │       │               │                    │                          at the │
+[UNFIXABLE] │       │               │                    │                         at the  │
 [UNFIXABLE] │       │               │                    │ fort on the cliff, where, full  │
 [UNFIXABLE] │       │               │                    │ of sorrow,<br/>                 │
-[UNFIXABLE] │       │               │                    │                          all    │
-[UNFIXABLE] │       │               │                    │ the morning earls had sat,<br/> │
+[UNFIXABLE] │       │               │                    │                         all the │
+[UNFIXABLE] │       │               │                    │ morning earls had sat,<br/>     │
 [UNFIXABLE] │       │               │                    │                         daring  │
 [UNFIXABLE] │       │               │                    │ shieldsmen, in doubt of         │
 [UNFIXABLE] │       │               │                    │ twain:<br/>                     │
-[UNFIXABLE] │       │               │                    │                          would  │
+[UNFIXABLE] │       │               │                    │                         would   │
 [UNFIXABLE] │       │               │                    │ they wail as dead, or welcome   │
 [UNFIXABLE] │       │               │                    │ home,<br/>                      │
-[UNFIXABLE] │       │               │                    │                          their  │
+[UNFIXABLE] │       │               │                    │                         their   │
 [UNFIXABLE] │       │               │                    │ lord beloved? Little <a         │
 [UNFIXABLE] │       │               │                    │ href="endnotes.xhtml#note-108"  │
 [UNFIXABLE] │       │               │                    │ id="noteref-108"                │
@@ -1253,19 +1247,19 @@ Generated: 2026-06-15 22:39:50
 [UNFIXABLE] │       │               │                    │                         of the  │
 [UNFIXABLE] │       │               │                    │ tidings new, but told them      │
 [UNFIXABLE] │       │               │                    │ all,<br/>                       │
-[UNFIXABLE] │       │               │                    │                          the    │
+[UNFIXABLE] │       │               │                    │                         the     │
 [UNFIXABLE] │       │               │                    │ herald that up the headland     │
 [UNFIXABLE] │       │               │                    │ rode. —<br/>                    │
-[UNFIXABLE] │       │               │                    │                          “Now   │
+[UNFIXABLE] │       │               │                    │                         “Now    │
 [UNFIXABLE] │       │               │                    │ the willing-giver to Weder      │
 [UNFIXABLE] │       │               │                    │ folk<br/>                       │
-[UNFIXABLE] │       │               │                    │                          in     │
+[UNFIXABLE] │       │               │                    │                         in      │
 [UNFIXABLE] │       │               │                    │ death-bed lies; the Lord of     │
 [UNFIXABLE] │       │               │                    │ Geats<br/>                      │
-[UNFIXABLE] │       │               │                    │                          on the │
+[UNFIXABLE] │       │               │                    │                         on the  │
 [UNFIXABLE] │       │               │                    │ slaughter-bed sleeps by the     │
 [UNFIXABLE] │       │               │                    │ serpent’s deed!<br/>            │
-[UNFIXABLE] │       │               │                    │                          And    │
+[UNFIXABLE] │       │               │                    │                         And     │
 [UNFIXABLE] │       │               │                    │ beside him is stretched that    │
 [UNFIXABLE] │       │               │                    │ slayer-of-men<br/>              │
 [UNFIXABLE] │       │               │                    │                         with    │
@@ -1274,80 +1268,80 @@ Generated: 2026-06-15 22:39:50
 [UNFIXABLE] │       │               │                    │ id="noteref-109"                │
 [UNFIXABLE] │       │               │                    │ epub:type="noteref">38b</a> no  │
 [UNFIXABLE] │       │               │                    │ sword availed<br/>              │
-[UNFIXABLE] │       │               │                    │                          on the │
+[UNFIXABLE] │       │               │                    │                         on the  │
 [UNFIXABLE] │       │               │                    │ awesome thing in any wise<br/>  │
-[UNFIXABLE] │       │               │                    │                          to     │
-[UNFIXABLE] │       │               │                    │ work a wound. There Wiglaf      │
+[UNFIXABLE] │       │               │                    │                         to work │
+[UNFIXABLE] │       │               │                    │ a wound. There Wiglaf           │
 [UNFIXABLE] │       │               │                    │ sitteth,<br/>                   │
 [UNFIXABLE] │       │               │                    │                         Weohst… │
 [UNFIXABLE] │       │               │                    │ bairn, by Beowulf’s side,<br/>  │
-[UNFIXABLE] │       │               │                    │                          the    │
+[UNFIXABLE] │       │               │                    │                         the     │
 [UNFIXABLE] │       │               │                    │ living earl by the other        │
 [UNFIXABLE] │       │               │                    │ dead,<br/>                      │
-[UNFIXABLE] │       │               │                    │                          and    │
+[UNFIXABLE] │       │               │                    │                         and     │
 [UNFIXABLE] │       │               │                    │ heavy of heart a head-watch <a  │
 [UNFIXABLE] │       │               │                    │ href="endnotes.xhtml#note-110"  │
 [UNFIXABLE] │       │               │                    │ id="noteref-110"                │
 [UNFIXABLE] │       │               │                    │ epub:type="noteref">38c</a>     │
 [UNFIXABLE] │       │               │                    │ keeps<br/>                      │
-[UNFIXABLE] │       │               │                    │                          o’er   │
-[UNFIXABLE] │       │               │                    │ friend and foe.⁠—⁠Now our folk    │
+[UNFIXABLE] │       │               │                    │                         o’er    │
+[UNFIXABLE] │       │               │                    │ friend and foe.⁠—Now our folk    │
 [UNFIXABLE] │       │               │                    │ may look<br/>                   │
-[UNFIXABLE] │       │               │                    │                          for    │
+[UNFIXABLE] │       │               │                    │                         for     │
 [UNFIXABLE] │       │               │                    │ waging of war when once         │
 [UNFIXABLE] │       │               │                    │ unhidden<br/>                   │
-[UNFIXABLE] │       │               │                    │                          to     │
+[UNFIXABLE] │       │               │                    │                         to      │
 [UNFIXABLE] │       │               │                    │ Frisian and Frank the fall of   │
 [UNFIXABLE] │       │               │                    │ the king<br/>                   │
-[UNFIXABLE] │       │               │                    │                          is     │
-[UNFIXABLE] │       │               │                    │ spread afar.⁠—⁠The strife         │
+[UNFIXABLE] │       │               │                    │                         is      │
+[UNFIXABLE] │       │               │                    │ spread afar.⁠—The strife         │
 [UNFIXABLE] │       │               │                    │ began<br/>                      │
-[UNFIXABLE] │       │               │                    │                          when   │
+[UNFIXABLE] │       │               │                    │                         when    │
 [UNFIXABLE] │       │               │                    │ hot on the Hugas <a             │
 [UNFIXABLE] │       │               │                    │ href="endnotes.xhtml#note-111"  │
 [UNFIXABLE] │       │               │                    │ id="noteref-111"                │
 [UNFIXABLE] │       │               │                    │ epub:type="noteref">38d</a>     │
 [UNFIXABLE] │       │               │                    │ Hygelac fell<br/>               │
-[UNFIXABLE] │       │               │                    │                          and    │
+[UNFIXABLE] │       │               │                    │                         and     │
 [UNFIXABLE] │       │               │                    │ fared with his fleet to the     │
 [UNFIXABLE] │       │               │                    │ Frisian land.<br/>              │
-[UNFIXABLE] │       │               │                    │                          Him    │
+[UNFIXABLE] │       │               │                    │                         Him     │
 [UNFIXABLE] │       │               │                    │ there the Hetwaras humbled in   │
 [UNFIXABLE] │       │               │                    │ war,<br/>                       │
 [UNFIXABLE] │       │               │                    │                         plied   │
 [UNFIXABLE] │       │               │                    │ with such prowess their power   │
 [UNFIXABLE] │       │               │                    │ o’erwhelming<br/>               │
-[UNFIXABLE] │       │               │                    │                          that   │
+[UNFIXABLE] │       │               │                    │                         that    │
 [UNFIXABLE] │       │               │                    │ the bold-in-battle bowed        │
 [UNFIXABLE] │       │               │                    │ beneath it<br/>                 │
-[UNFIXABLE] │       │               │                    │                          and    │
+[UNFIXABLE] │       │               │                    │                         and     │
 [UNFIXABLE] │       │               │                    │ fell in fight. To his friends   │
 [UNFIXABLE] │       │               │                    │ no wise<br/>                    │
-[UNFIXABLE] │       │               │                    │                          could  │
+[UNFIXABLE] │       │               │                    │                         could   │
 [UNFIXABLE] │       │               │                    │ that earl give treasure! And    │
 [UNFIXABLE] │       │               │                    │ ever since<br/>                 │
-[UNFIXABLE] │       │               │                    │                          the    │
+[UNFIXABLE] │       │               │                    │                         the     │
 [UNFIXABLE] │       │               │                    │ Merowings’ favor has failed us  │
 [UNFIXABLE] │       │               │                    │ wholly.<br/>                    │
-[UNFIXABLE] │       │               │                    │                          Nor    │
+[UNFIXABLE] │       │               │                    │                         Nor     │
 [UNFIXABLE] │       │               │                    │ aught expect I of peace and     │
 [UNFIXABLE] │       │               │                    │ faith<br/>                      │
 [UNFIXABLE] │       │               │                    │                         from    │
 [UNFIXABLE] │       │               │                    │ Swedish folk. ’Twas spread      │
 [UNFIXABLE] │       │               │                    │ afar<br/>                       │
-[UNFIXABLE] │       │               │                    │                          how    │
+[UNFIXABLE] │       │               │                    │                         how     │
 [UNFIXABLE] │       │               │                    │ Ongentheow reft at              │
 [UNFIXABLE] │       │               │                    │ Ravenswood<br/>                 │
-[UNFIXABLE] │       │               │                    │                          Haeth… │
+[UNFIXABLE] │       │               │                    │                         Haethc… │
 [UNFIXABLE] │       │               │                    │ Hrethling of hope and           │
 [UNFIXABLE] │       │               │                    │ life,<br/>                      │
-[UNFIXABLE] │       │               │                    │                          when   │
+[UNFIXABLE] │       │               │                    │                         when    │
 [UNFIXABLE] │       │               │                    │ the folk of Geats for the first │
 [UNFIXABLE] │       │               │                    │ time sought<br/>                │
-[UNFIXABLE] │       │               │                    │                          in     │
+[UNFIXABLE] │       │               │                    │                         in      │
 [UNFIXABLE] │       │               │                    │ wanton pride the                │
 [UNFIXABLE] │       │               │                    │ Warlike-Scylfings.<br/>         │
-[UNFIXABLE] │       │               │                    │                          Soon   │
+[UNFIXABLE] │       │               │                    │                         Soon    │
 [UNFIXABLE] │       │               │                    │ the sage old sire <a            │
 [UNFIXABLE] │       │               │                    │ href="endnotes.xhtml#note-112"  │
 [UNFIXABLE] │       │               │                    │ id="noteref-112"                │
@@ -1356,22 +1350,22 @@ Generated: 2026-06-15 22:39:50
 [UNFIXABLE] │       │               │                    │                         ancient │
 [UNFIXABLE] │       │               │                    │ and awful, gave answering       │
 [UNFIXABLE] │       │               │                    │ blow;<br/>                      │
-[UNFIXABLE] │       │               │                    │                          the    │
+[UNFIXABLE] │       │               │                    │                         the     │
 [UNFIXABLE] │       │               │                    │ sea-king <a                     │
 [UNFIXABLE] │       │               │                    │ href="endnotes.xhtml#note-113"  │
 [UNFIXABLE] │       │               │                    │ id="noteref-113"                │
 [UNFIXABLE] │       │               │                    │ epub:type="noteref">38f</a> he  │
 [UNFIXABLE] │       │               │                    │ slew, and his spouse            │
 [UNFIXABLE] │       │               │                    │ redeemed,<br/>                  │
-[UNFIXABLE] │       │               │                    │                          his    │
+[UNFIXABLE] │       │               │                    │                         his     │
 [UNFIXABLE] │       │               │                    │ good wife rescued, though       │
 [UNFIXABLE] │       │               │                    │ robbed of her gold,<br/>        │
-[UNFIXABLE] │       │               │                    │                          mother │
+[UNFIXABLE] │       │               │                    │                         mother  │
 [UNFIXABLE] │       │               │                    │ of Ohtere and Onela.<br/>       │
-[UNFIXABLE] │       │               │                    │                          Then   │
-[UNFIXABLE] │       │               │                    │ he followed his foes, who fled  │
+[UNFIXABLE] │       │               │                    │                         Then he │
+[UNFIXABLE] │       │               │                    │ followed his foes, who fled     │
 [UNFIXABLE] │       │               │                    │ before him<br/>                 │
-[UNFIXABLE] │       │               │                    │                          sore   │
+[UNFIXABLE] │       │               │                    │                         sore    │
 [UNFIXABLE] │       │               │                    │ beset and stole their way,<br/> │
 [UNFIXABLE] │       │               │                    │                         bereft  │
 [UNFIXABLE] │       │               │                    │ of a ruler, to Ravenswood.</p>  │
@@ -1479,55 +1473,55 @@ Generated: 2026-06-15 22:39:50
 [UNFIXABLE] │       │               │                    │                         who     │
 [UNFIXABLE] │       │               │                    │ heinously hid, that hall        │
 [UNFIXABLE] │       │               │                    │ within,<br/>                    │
-[UNFIXABLE] │       │               │                    │                          wealth │
+[UNFIXABLE] │       │               │                    │                         wealth  │
 [UNFIXABLE] │       │               │                    │ under wall! Its watcher had     │
 [UNFIXABLE] │       │               │                    │ killed<br/>                     │
-[UNFIXABLE] │       │               │                    │                          one of │
+[UNFIXABLE] │       │               │                    │                         one of  │
 [UNFIXABLE] │       │               │                    │ a few, <a                       │
 [UNFIXABLE] │       │               │                    │ href="endnotes.xhtml#note-120"  │
 [UNFIXABLE] │       │               │                    │ id="noteref-120"                │
 [UNFIXABLE] │       │               │                    │ epub:type="noteref">40b</a> and │
 [UNFIXABLE] │       │               │                    │ the feud was avenged<br/>       │
-[UNFIXABLE] │       │               │                    │                          in     │
+[UNFIXABLE] │       │               │                    │                         in      │
 [UNFIXABLE] │       │               │                    │ woful fashion. Wondrous seems   │
 [UNFIXABLE] │       │               │                    │ it,<br/>                        │
-[UNFIXABLE] │       │               │                    │                          what   │
+[UNFIXABLE] │       │               │                    │                         what    │
 [UNFIXABLE] │       │               │                    │ manner a man of might and       │
 [UNFIXABLE] │       │               │                    │ valor<br/>                      │
-[UNFIXABLE] │       │               │                    │                          oft    │
+[UNFIXABLE] │       │               │                    │                         oft     │
 [UNFIXABLE] │       │               │                    │ ends his life, when the earl no │
 [UNFIXABLE] │       │               │                    │ longer<br/>                     │
 [UNFIXABLE] │       │               │                    │                         in      │
 [UNFIXABLE] │       │               │                    │ mead-hall may live with loving  │
 [UNFIXABLE] │       │               │                    │ friends.<br/>                   │
-[UNFIXABLE] │       │               │                    │                          So     │
+[UNFIXABLE] │       │               │                    │                         So      │
 [UNFIXABLE] │       │               │                    │ Beowulf, when that barrow’s     │
 [UNFIXABLE] │       │               │                    │ warden<br/>                     │
-[UNFIXABLE] │       │               │                    │                          he     │
+[UNFIXABLE] │       │               │                    │                         he      │
 [UNFIXABLE] │       │               │                    │ sought, and the struggle;       │
 [UNFIXABLE] │       │               │                    │ himself knew not<br/>           │
 [UNFIXABLE] │       │               │                    │                         in what │
 [UNFIXABLE] │       │               │                    │ wise he should wend from the    │
 [UNFIXABLE] │       │               │                    │ world at last.<br/>             │
-[UNFIXABLE] │       │               │                    │                          For <a │
+[UNFIXABLE] │       │               │                    │                         For <a  │
 [UNFIXABLE] │       │               │                    │ href="endnotes.xhtml#note-121"  │
 [UNFIXABLE] │       │               │                    │ id="noteref-121"                │
 [UNFIXABLE] │       │               │                    │ epub:type="noteref">40c</a>     │
 [UNFIXABLE] │       │               │                    │ princes potent, who placed the  │
 [UNFIXABLE] │       │               │                    │ gold,<br/>                      │
-[UNFIXABLE] │       │               │                    │                          with a │
+[UNFIXABLE] │       │               │                    │                         with a  │
 [UNFIXABLE] │       │               │                    │ curse to doomsday covered it    │
 [UNFIXABLE] │       │               │                    │ deep,<br/>                      │
-[UNFIXABLE] │       │               │                    │                          so     │
-[UNFIXABLE] │       │               │                    │ that marked with sin the man    │
-[UNFIXABLE] │       │               │                    │ should be,<br/>                 │
-[UNFIXABLE] │       │               │                    │                          hedged │
+[UNFIXABLE] │       │               │                    │                         so that │
+[UNFIXABLE] │       │               │                    │ marked with sin the man should  │
+[UNFIXABLE] │       │               │                    │ be,<br/>                        │
+[UNFIXABLE] │       │               │                    │                         hedged  │
 [UNFIXABLE] │       │               │                    │ with horrors, in hell-bonds     │
 [UNFIXABLE] │       │               │                    │ fast,<br/>                      │
-[UNFIXABLE] │       │               │                    │                          racked │
+[UNFIXABLE] │       │               │                    │                         racked  │
 [UNFIXABLE] │       │               │                    │ with plagues, who should rob    │
 [UNFIXABLE] │       │               │                    │ their hoard.<br/>               │
-[UNFIXABLE] │       │               │                    │                          Yet no │
+[UNFIXABLE] │       │               │                    │                         Yet no  │
 [UNFIXABLE] │       │               │                    │ greed for gold, but the grace   │
 [UNFIXABLE] │       │               │                    │ of heaven,<br/>                 │
 [UNFIXABLE] │       │               │                    │                         ever    │
@@ -1535,238 +1529,238 @@ Generated: 2026-06-15 22:39:50
 [UNFIXABLE] │       │               │                    │ href="endnotes.xhtml#note-122"  │
 [UNFIXABLE] │       │               │                    │ id="noteref-122"                │
 [UNFIXABLE] │       │               │                    │ epub:type="noteref">40d</a><br… │
-[UNFIXABLE] │       │               │                    │                          Wiglaf │
+[UNFIXABLE] │       │               │                    │                         Wiglaf  │
 [UNFIXABLE] │       │               │                    │ spake, the son of               │
 [UNFIXABLE] │       │               │                    │ Weohstan:⁠—<br/>                 │
-[UNFIXABLE] │       │               │                    │                          “At    │
-[UNFIXABLE] │       │               │                    │ the mandate of one, oft         │
-[UNFIXABLE] │       │               │                    │ warriors many<br/>              │
-[UNFIXABLE] │       │               │                    │                          sorrow │
+[UNFIXABLE] │       │               │                    │                         “At the │
+[UNFIXABLE] │       │               │                    │ mandate of one, oft warriors    │
+[UNFIXABLE] │       │               │                    │ many<br/>                       │
+[UNFIXABLE] │       │               │                    │                         sorrow  │
 [UNFIXABLE] │       │               │                    │ must suffer; and so must        │
 [UNFIXABLE] │       │               │                    │ we.<br/>                        │
-[UNFIXABLE] │       │               │                    │                          The    │
+[UNFIXABLE] │       │               │                    │                         The     │
 [UNFIXABLE] │       │               │                    │ people’s-shepherd showed not    │
 [UNFIXABLE] │       │               │                    │ aught<br/>                      │
-[UNFIXABLE] │       │               │                    │                          of     │
-[UNFIXABLE] │       │               │                    │ care for our counsel, king      │
+[UNFIXABLE] │       │               │                    │                         of care │
+[UNFIXABLE] │       │               │                    │ for our counsel, king           │
 [UNFIXABLE] │       │               │                    │ beloved!<br/>                   │
-[UNFIXABLE] │       │               │                    │                          That   │
+[UNFIXABLE] │       │               │                    │                         That    │
 [UNFIXABLE] │       │               │                    │ guardian of gold he should      │
 [UNFIXABLE] │       │               │                    │ grapple not, urged we,<br/>     │
-[UNFIXABLE] │       │               │                    │                          but    │
-[UNFIXABLE] │       │               │                    │ let him lie where he long had   │
+[UNFIXABLE] │       │               │                    │                         but let │
+[UNFIXABLE] │       │               │                    │ him lie where he long had       │
 [UNFIXABLE] │       │               │                    │ been<br/>                       │
-[UNFIXABLE] │       │               │                    │                          in his │
+[UNFIXABLE] │       │               │                    │                         in his  │
 [UNFIXABLE] │       │               │                    │ earth-hall waiting the end of   │
 [UNFIXABLE] │       │               │                    │ the world,<br/>                 │
-[UNFIXABLE] │       │               │                    │                          the    │
-[UNFIXABLE] │       │               │                    │ hest of heaven.⁠—⁠This hoard is   │
+[UNFIXABLE] │       │               │                    │                         the     │
+[UNFIXABLE] │       │               │                    │ hest of heaven.⁠—This hoard is   │
 [UNFIXABLE] │       │               │                    │ ours<br/>                       │
-[UNFIXABLE] │       │               │                    │                          but    │
+[UNFIXABLE] │       │               │                    │                         but     │
 [UNFIXABLE] │       │               │                    │ grievously gotten; too grim the │
 [UNFIXABLE] │       │               │                    │ fate<br/>                       │
-[UNFIXABLE] │       │               │                    │                          which  │
+[UNFIXABLE] │       │               │                    │                         which   │
 [UNFIXABLE] │       │               │                    │ thither carried our king and    │
 [UNFIXABLE] │       │               │                    │ lord.<br/>                      │
 [UNFIXABLE] │       │               │                    │                         I was   │
 [UNFIXABLE] │       │               │                    │ within there, and all I         │
 [UNFIXABLE] │       │               │                    │ viewed,<br/>                    │
-[UNFIXABLE] │       │               │                    │                          the    │
+[UNFIXABLE] │       │               │                    │                         the     │
 [UNFIXABLE] │       │               │                    │ chambered treasure, when chance │
 [UNFIXABLE] │       │               │                    │ allowed me<br/>                 │
-[UNFIXABLE] │       │               │                    │                          (and   │
-[UNFIXABLE] │       │               │                    │ my path was made in no pleasant │
+[UNFIXABLE] │       │               │                    │                         (and my │
+[UNFIXABLE] │       │               │                    │ path was made in no pleasant    │
 [UNFIXABLE] │       │               │                    │ wise)<br/>                      │
 [UNFIXABLE] │       │               │                    │                         under   │
 [UNFIXABLE] │       │               │                    │ the earth-wall. Eager, I        │
 [UNFIXABLE] │       │               │                    │ seized<br/>                     │
-[UNFIXABLE] │       │               │                    │                          such   │
+[UNFIXABLE] │       │               │                    │                         such    │
 [UNFIXABLE] │       │               │                    │ heap from the hoard as hands    │
 [UNFIXABLE] │       │               │                    │ could bear<br/>                 │
-[UNFIXABLE] │       │               │                    │                          and    │
+[UNFIXABLE] │       │               │                    │                         and     │
 [UNFIXABLE] │       │               │                    │ hurriedly carried it hither     │
 [UNFIXABLE] │       │               │                    │ back<br/>                       │
-[UNFIXABLE] │       │               │                    │                          to my  │
+[UNFIXABLE] │       │               │                    │                         to my   │
 [UNFIXABLE] │       │               │                    │ liege and lord. Alive was he    │
 [UNFIXABLE] │       │               │                    │ still,<br/>                     │
-[UNFIXABLE] │       │               │                    │                          still  │
+[UNFIXABLE] │       │               │                    │                         still   │
 [UNFIXABLE] │       │               │                    │ wielding his wits. The wise old │
 [UNFIXABLE] │       │               │                    │ man<br/>                        │
-[UNFIXABLE] │       │               │                    │                          spake  │
+[UNFIXABLE] │       │               │                    │                         spake   │
 [UNFIXABLE] │       │               │                    │ much in his sorrow, and sent    │
 [UNFIXABLE] │       │               │                    │ you greetings<br/>              │
-[UNFIXABLE] │       │               │                    │                          and    │
+[UNFIXABLE] │       │               │                    │                         and     │
 [UNFIXABLE] │       │               │                    │ bade that ye build, when he     │
 [UNFIXABLE] │       │               │                    │ breathed no more,<br/>          │
-[UNFIXABLE] │       │               │                    │                          on the │
+[UNFIXABLE] │       │               │                    │                         on the  │
 [UNFIXABLE] │       │               │                    │ place of his balefire a barrow  │
 [UNFIXABLE] │       │               │                    │ high,<br/>                      │
-[UNFIXABLE] │       │               │                    │                          memor… │
+[UNFIXABLE] │       │               │                    │                         memori… │
 [UNFIXABLE] │       │               │                    │ mighty. Of men was he<br/>      │
-[UNFIXABLE] │       │               │                    │                          worth… │
+[UNFIXABLE] │       │               │                    │                         worthi… │
 [UNFIXABLE] │       │               │                    │ warrior wide earth o’er<br/>    │
-[UNFIXABLE] │       │               │                    │                          the    │
+[UNFIXABLE] │       │               │                    │                         the     │
 [UNFIXABLE] │       │               │                    │ while he had joy of his jewels  │
 [UNFIXABLE] │       │               │                    │ and burg.<br/>                  │
-[UNFIXABLE] │       │               │                    │                          Let us │
+[UNFIXABLE] │       │               │                    │                         Let us  │
 [UNFIXABLE] │       │               │                    │ set out in haste now, the       │
 [UNFIXABLE] │       │               │                    │ second time<br/>                │
-[UNFIXABLE] │       │               │                    │                          to see │
+[UNFIXABLE] │       │               │                    │                         to see  │
 [UNFIXABLE] │       │               │                    │ and search this store of        │
 [UNFIXABLE] │       │               │                    │ treasure,<br/>                  │
-[UNFIXABLE] │       │               │                    │                          these  │
+[UNFIXABLE] │       │               │                    │                         these   │
 [UNFIXABLE] │       │               │                    │ wall-hid wonders⁠—the way I show │
 [UNFIXABLE] │       │               │                    │ you⁠—<br/>                       │
-[UNFIXABLE] │       │               │                    │                          where, │
+[UNFIXABLE] │       │               │                    │                         where,  │
 [UNFIXABLE] │       │               │                    │ gathered near, ye may gaze your │
 [UNFIXABLE] │       │               │                    │ fill<br/>                       │
-[UNFIXABLE] │       │               │                    │                          at     │
+[UNFIXABLE] │       │               │                    │                         at      │
 [UNFIXABLE] │       │               │                    │ broad-gold and rings. Let the   │
 [UNFIXABLE] │       │               │                    │ bier, soon made,<br/>           │
-[UNFIXABLE] │       │               │                    │                          be all │
+[UNFIXABLE] │       │               │                    │                         be all  │
 [UNFIXABLE] │       │               │                    │ in order when out we come,<br/> │
-[UNFIXABLE] │       │               │                    │                          our    │
+[UNFIXABLE] │       │               │                    │                         our     │
 [UNFIXABLE] │       │               │                    │ king and captain to carry       │
 [UNFIXABLE] │       │               │                    │ thither<br/>                    │
-[UNFIXABLE] │       │               │                    │                         —⁠man    │
+[UNFIXABLE] │       │               │                    │                         —man    │
 [UNFIXABLE] │       │               │                    │ beloved⁠—where long he shall     │
 [UNFIXABLE] │       │               │                    │ bide<br/>                       │
-[UNFIXABLE] │       │               │                    │                          safe   │
-[UNFIXABLE] │       │               │                    │ in the shelter of sovran        │
+[UNFIXABLE] │       │               │                    │                         safe in │
+[UNFIXABLE] │       │               │                    │ the shelter of sovran           │
 [UNFIXABLE] │       │               │                    │ God.”<br/>                      │
-[UNFIXABLE] │       │               │                    │                          Then   │
+[UNFIXABLE] │       │               │                    │                         Then    │
 [UNFIXABLE] │       │               │                    │ the bairn of Weohstan bade      │
 [UNFIXABLE] │       │               │                    │ command,<br/>                   │
-[UNFIXABLE] │       │               │                    │                          hardy  │
+[UNFIXABLE] │       │               │                    │                         hardy   │
 [UNFIXABLE] │       │               │                    │ chief, to heroes many<br/>      │
-[UNFIXABLE] │       │               │                    │                          that   │
+[UNFIXABLE] │       │               │                    │                         that    │
 [UNFIXABLE] │       │               │                    │ owned their homesteads, hither  │
 [UNFIXABLE] │       │               │                    │ to bring<br/>                   │
 [UNFIXABLE] │       │               │                    │                         firewo… │
 [UNFIXABLE] │       │               │                    │ from far⁠—o’er the folk they     │
 [UNFIXABLE] │       │               │                    │ ruled⁠—<br/>                     │
-[UNFIXABLE] │       │               │                    │                          for    │
-[UNFIXABLE] │       │               │                    │ the famed-one’s funeral. “ Fire │
+[UNFIXABLE] │       │               │                    │                         for the │
+[UNFIXABLE] │       │               │                    │ famed-one’s funeral. “ Fire     │
 [UNFIXABLE] │       │               │                    │ shall devour<br/>               │
-[UNFIXABLE] │       │               │                    │                          and    │
-[UNFIXABLE] │       │               │                    │ wan flames feed on the fearless │
+[UNFIXABLE] │       │               │                    │                         and wan │
+[UNFIXABLE] │       │               │                    │ flames feed on the fearless     │
 [UNFIXABLE] │       │               │                    │ warrior<br/>                    │
-[UNFIXABLE] │       │               │                    │                          who    │
-[UNFIXABLE] │       │               │                    │ oft stood stout in the          │
+[UNFIXABLE] │       │               │                    │                         who oft │
+[UNFIXABLE] │       │               │                    │ stood stout in the              │
 [UNFIXABLE] │       │               │                    │ iron-shower,<br/>               │
 [UNFIXABLE] │       │               │                    │                         when,   │
 [UNFIXABLE] │       │               │                    │ sped from the string, a storm   │
 [UNFIXABLE] │       │               │                    │ of arrows<br/>                  │
-[UNFIXABLE] │       │               │                    │                          shot   │
+[UNFIXABLE] │       │               │                    │                         shot    │
 [UNFIXABLE] │       │               │                    │ o’er the shield-wall: the shaft │
 [UNFIXABLE] │       │               │                    │ held firm,<br/>                 │
-[UNFIXABLE] │       │               │                    │                          featly │
+[UNFIXABLE] │       │               │                    │                         featly  │
 [UNFIXABLE] │       │               │                    │ feathered, followed the         │
 [UNFIXABLE] │       │               │                    │ barb.”<br/>                     │
-[UNFIXABLE] │       │               │                    │                          And    │
-[UNFIXABLE] │       │               │                    │ now the sage young son of       │
+[UNFIXABLE] │       │               │                    │                         And now │
+[UNFIXABLE] │       │               │                    │ the sage young son of           │
 [UNFIXABLE] │       │               │                    │ Weohstan<br/>                   │
-[UNFIXABLE] │       │               │                    │                          seven  │
+[UNFIXABLE] │       │               │                    │                         seven   │
 [UNFIXABLE] │       │               │                    │ chose of the chieftain’s        │
 [UNFIXABLE] │       │               │                    │ thanes,<br/>                    │
-[UNFIXABLE] │       │               │                    │                          the    │
+[UNFIXABLE] │       │               │                    │                         the     │
 [UNFIXABLE] │       │               │                    │ best he found that band         │
 [UNFIXABLE] │       │               │                    │ within,<br/>                    │
 [UNFIXABLE] │       │               │                    │                         and     │
 [UNFIXABLE] │       │               │                    │ went with these warriors, one   │
 [UNFIXABLE] │       │               │                    │ of eight,<br/>                  │
-[UNFIXABLE] │       │               │                    │                          under  │
+[UNFIXABLE] │       │               │                    │                         under   │
 [UNFIXABLE] │       │               │                    │ hostile roof. In hand one       │
 [UNFIXABLE] │       │               │                    │ bore<br/>                       │
-[UNFIXABLE] │       │               │                    │                          a      │
+[UNFIXABLE] │       │               │                    │                         a       │
 [UNFIXABLE] │       │               │                    │ lighted torch and led the       │
 [UNFIXABLE] │       │               │                    │ way.<br/>                       │
-[UNFIXABLE] │       │               │                    │                          No     │
-[UNFIXABLE] │       │               │                    │ lots they cast for keeping the  │
+[UNFIXABLE] │       │               │                    │                         No lots │
+[UNFIXABLE] │       │               │                    │ they cast for keeping the       │
 [UNFIXABLE] │       │               │                    │ hoard<br/>                      │
-[UNFIXABLE] │       │               │                    │                          when   │
+[UNFIXABLE] │       │               │                    │                         when    │
 [UNFIXABLE] │       │               │                    │ once the warriors saw it in     │
 [UNFIXABLE] │       │               │                    │ hall,<br/>                      │
 [UNFIXABLE] │       │               │                    │                         altoge… │
 [UNFIXABLE] │       │               │                    │ without a guardian,<br/>        │
-[UNFIXABLE] │       │               │                    │                          lying  │
+[UNFIXABLE] │       │               │                    │                         lying   │
 [UNFIXABLE] │       │               │                    │ there lost. And little they     │
 [UNFIXABLE] │       │               │                    │ mourned<br/>                    │
-[UNFIXABLE] │       │               │                    │                          when   │
+[UNFIXABLE] │       │               │                    │                         when    │
 [UNFIXABLE] │       │               │                    │ they had hastily haled it       │
 [UNFIXABLE] │       │               │                    │ out,<br/>                       │
-[UNFIXABLE] │       │               │                    │                          dear-… │
+[UNFIXABLE] │       │               │                    │                         dear-b… │
 [UNFIXABLE] │       │               │                    │ treasure! The dragon they       │
 [UNFIXABLE] │       │               │                    │ cast,<br/>                      │
-[UNFIXABLE] │       │               │                    │                          the    │
+[UNFIXABLE] │       │               │                    │                         the     │
 [UNFIXABLE] │       │               │                    │ worm, o’er the wall for the     │
 [UNFIXABLE] │       │               │                    │ wave to take,<br/>              │
-[UNFIXABLE] │       │               │                    │                          and    │
+[UNFIXABLE] │       │               │                    │                         and     │
 [UNFIXABLE] │       │               │                    │ surges swallowed that shepherd  │
 [UNFIXABLE] │       │               │                    │ of gems.<br/>                   │
-[UNFIXABLE] │       │               │                    │                          Then   │
+[UNFIXABLE] │       │               │                    │                         Then    │
 [UNFIXABLE] │       │               │                    │ the woven gold on a wain was    │
 [UNFIXABLE] │       │               │                    │ laden⁠—<br/>                     │
-[UNFIXABLE] │       │               │                    │                          count… │
+[UNFIXABLE] │       │               │                    │                         countl… │
 [UNFIXABLE] │       │               │                    │ quite!⁠—and the king was         │
 [UNFIXABLE] │       │               │                    │ borne,<br/>                     │
-[UNFIXABLE] │       │               │                    │                          hoary  │
+[UNFIXABLE] │       │               │                    │                         hoary   │
 [UNFIXABLE] │       │               │                    │ hero, to Hrones-Ness.</p>       │
 [UNFIXABLE] │ y-019 │ Manual Review │ chapter-1.xhtml    │ Possible typo: ” without        │
 [UNFIXABLE] │       │               │                    │ opening “.                      │
 [UNFIXABLE] │       │               │           Line 622 │ ME thus often the evil monsters │
 [UNFIXABLE] │       │               │           Line 622 │                                 │
-[UNFIXABLE] │       │               │                    │                          thron… │
+[UNFIXABLE] │       │               │                    │                         throng… │
 [UNFIXABLE] │       │               │                    │ threatened. With thrust of my   │
 [UNFIXABLE] │       │               │                    │ sword,                          │
 [UNFIXABLE] │       │               │           Line 623 │                                 │
-[UNFIXABLE] │       │               │                    │                          the    │
+[UNFIXABLE] │       │               │                    │                         the     │
 [UNFIXABLE] │       │               │                    │ darling, I dealt them due       │
 [UNFIXABLE] │       │               │                    │ return!                         │
 [UNFIXABLE] │       │               │           Line 624 │                                 │
-[UNFIXABLE] │       │               │                    │                          Nowise │
+[UNFIXABLE] │       │               │                    │                         Nowise  │
 [UNFIXABLE] │       │               │                    │ had they bliss from their booty │
 [UNFIXABLE] │       │               │                    │ then                            │
 [UNFIXABLE] │       │               │           Line 625 │                                 │
-[UNFIXABLE] │       │               │                    │                          to     │
+[UNFIXABLE] │       │               │                    │                         to      │
 [UNFIXABLE] │       │               │                    │ devour their victim, vengeful   │
 [UNFIXABLE] │       │               │                    │ creatures,                      │
 [UNFIXABLE] │       │               │           Line 626 │                                 │
-[UNFIXABLE] │       │               │                    │                          seated │
+[UNFIXABLE] │       │               │                    │                         seated  │
 [UNFIXABLE] │       │               │                    │ to banquet at bottom of sea;    │
 [UNFIXABLE] │       │               │           Line 627 │                                 │
-[UNFIXABLE] │       │               │                    │                          but at │
+[UNFIXABLE] │       │               │                    │                         but at  │
 [UNFIXABLE] │       │               │                    │ break of day, by my brand sore  │
 [UNFIXABLE] │       │               │                    │ hurt,                           │
 [UNFIXABLE] │       │               │           Line 628 │                                 │
-[UNFIXABLE] │       │               │                    │                          on the │
+[UNFIXABLE] │       │               │                    │                         on the  │
 [UNFIXABLE] │       │               │                    │ edge of ocean up they lay,      │
 [UNFIXABLE] │       │               │           Line 629 │                                 │
 [UNFIXABLE] │       │               │                    │                         put to  │
 [UNFIXABLE] │       │               │                    │ sleep by the sword. And since,  │
 [UNFIXABLE] │       │               │                    │ by them                         │
 [UNFIXABLE] │       │               │           Line 630 │                                 │
-[UNFIXABLE] │       │               │                    │                          on the │
+[UNFIXABLE] │       │               │                    │                         on the  │
 [UNFIXABLE] │       │               │                    │ fathomless sea-ways sailor-folk │
 [UNFIXABLE] │       │               │           Line 631 │                                 │
-[UNFIXABLE] │       │               │                    │                          are    │
-[UNFIXABLE] │       │               │                    │ never molested.⁠—⁠Light from      │
+[UNFIXABLE] │       │               │                    │                         are     │
+[UNFIXABLE] │       │               │                    │ never molested.⁠—Light from      │
 [UNFIXABLE] │       │               │                    │ east,                           │
 [UNFIXABLE] │       │               │           Line 632 │                                 │
 [UNFIXABLE] │       │               │                    │                         came    │
 [UNFIXABLE] │       │               │                    │ bright God’s beacon; the        │
 [UNFIXABLE] │       │               │                    │ billows sank,                   │
 [UNFIXABLE] │       │               │           Line 633 │                                 │
-[UNFIXABLE] │       │               │                    │                          so     │
-[UNFIXABLE] │       │               │                    │ that I saw the sea-cliffs high, │
+[UNFIXABLE] │       │               │                    │                         so that │
+[UNFIXABLE] │       │               │                    │ I saw the sea-cliffs high,      │
 [UNFIXABLE] │       │               │           Line 634 │                                 │
-[UNFIXABLE] │       │               │                    │                          windy  │
+[UNFIXABLE] │       │               │                    │                         windy   │
 [UNFIXABLE] │       │               │                    │ walls. For Wyrd oft saveth      │
 [UNFIXABLE] │       │               │           Line 635 │                                 │
-[UNFIXABLE] │       │               │                    │                          earl   │
+[UNFIXABLE] │       │               │                    │                         earl    │
 [UNFIXABLE] │       │               │                    │ undoomed if he doughty be!      │
 [UNFIXABLE] │       │               │           Line 636 │                                 │
-[UNFIXABLE] │       │               │                    │                          And so │
+[UNFIXABLE] │       │               │                    │                         And so  │
 [UNFIXABLE] │       │               │                    │ it came that I killed with my   │
 [UNFIXABLE] │       │               │                    │ sword                           │
 [UNFIXABLE] │       │               │           Line 637 │                                 │
@@ -1774,15 +1768,15 @@ Generated: 2026-06-15 22:39:50
 [UNFIXABLE] │       │               │                    │ the nicors. Of night-fought     │
 [UNFIXABLE] │       │               │                    │ battles                         │
 [UNFIXABLE] │       │               │           Line 638 │                                 │
-[UNFIXABLE] │       │               │                    │                          ne’er  │
+[UNFIXABLE] │       │               │                    │                         ne’er   │
 [UNFIXABLE] │       │               │                    │ heard I a harder ’neath         │
 [UNFIXABLE] │       │               │                    │ heaven’s dome,                  │
 [UNFIXABLE] │       │               │           Line 639 │                                 │
-[UNFIXABLE] │       │               │                    │                          nor    │
+[UNFIXABLE] │       │               │                    │                         nor     │
 [UNFIXABLE] │       │               │                    │ adrift on the deep a more       │
 [UNFIXABLE] │       │               │                    │ desolate man!                   │
 [UNFIXABLE] │       │               │           Line 640 │                                 │
-[UNFIXABLE] │       │               │                    │                          Yet I  │
+[UNFIXABLE] │       │               │                    │                         Yet I   │
 [UNFIXABLE] │       │               │                    │ came unharmed from that hostile │
 [UNFIXABLE] │       │               │                    │ clutch,                         │
 [UNFIXABLE] │       │               │           Line 641 │                                 │
@@ -1790,27 +1784,26 @@ Generated: 2026-06-15 22:39:50
 [UNFIXABLE] │       │               │                    │ spent with swimming. The sea    │
 [UNFIXABLE] │       │               │                    │ upbore me,                      │
 [UNFIXABLE] │       │               │           Line 642 │                                 │
-[UNFIXABLE] │       │               │                    │                          flood  │
+[UNFIXABLE] │       │               │                    │                         flood   │
 [UNFIXABLE] │       │               │                    │ of the tide, on Finnish land,   │
 [UNFIXABLE] │       │               │           Line 643 │                                 │
-[UNFIXABLE] │       │               │                    │                          the    │
+[UNFIXABLE] │       │               │                    │                         the     │
 [UNFIXABLE] │       │               │                    │ welling waters. No wise of thee │
 [UNFIXABLE] │       │               │           Line 644 │                                 │
-[UNFIXABLE] │       │               │                    │                          have I │
+[UNFIXABLE] │       │               │                    │                         have I  │
 [UNFIXABLE] │       │               │                    │ heard men tell such terror of   │
 [UNFIXABLE] │       │               │                    │ falchions,                      │
 [UNFIXABLE] │       │               │           Line 645 │                                 │
-[UNFIXABLE] │       │               │                    │                          bitter │
+[UNFIXABLE] │       │               │                    │                         bitter  │
 [UNFIXABLE] │       │               │                    │ battle. Breca ne’er yet,        │
 [UNFIXABLE] │       │               │           Line 646 │                                 │
-[UNFIXABLE] │       │               │                    │                          not    │
-[UNFIXABLE] │       │               │                    │ one of you pair, in the play of │
-[UNFIXABLE] │       │               │                    │ war                             │
+[UNFIXABLE] │       │               │                    │                         not one │
+[UNFIXABLE] │       │               │                    │ of you pair, in the play of war │
 [UNFIXABLE] │       │               │           Line 647 │                                 │
-[UNFIXABLE] │       │               │                    │                          such   │
+[UNFIXABLE] │       │               │                    │                         such    │
 [UNFIXABLE] │       │               │                    │ daring deed has done at all     │
 [UNFIXABLE] │       │               │           Line 648 │                                 │
-[UNFIXABLE] │       │               │                    │                          with   │
+[UNFIXABLE] │       │               │                    │                         with    │
 [UNFIXABLE] │       │               │                    │ bloody brand⁠—I boast not of     │
 [UNFIXABLE] │       │               │                    │ it!⁠—                            │
 [UNFIXABLE] │       │               │           Line 649 │                                 │
@@ -1818,11 +1811,11 @@ Generated: 2026-06-15 22:39:50
 [UNFIXABLE] │       │               │                    │ thou wast the bane              │
 [UNFIXABLE] │       │               │           Line 650 │  of thy brethren dear,          │
 [UNFIXABLE] │       │               │           Line 650 │                                 │
-[UNFIXABLE] │       │               │                    │                          thy    │
+[UNFIXABLE] │       │               │                    │                         thy     │
 [UNFIXABLE] │       │               │                    │ closest kin, whence curse of    │
 [UNFIXABLE] │       │               │                    │ hell                            │
 [UNFIXABLE] │       │               │           Line 651 │                                 │
-[UNFIXABLE] │       │               │                    │                          awaits │
+[UNFIXABLE] │       │               │                    │                         awaits  │
 [UNFIXABLE] │       │               │                    │ thee, well as thy wit may       │
 [UNFIXABLE] │       │               │                    │ serve!                          │
 [UNFIXABLE] │       │               │           Line 652 │                                 │
@@ -1830,106 +1823,105 @@ Generated: 2026-06-15 22:39:50
 [UNFIXABLE] │       │               │                    │ say in sooth, thou son of       │
 [UNFIXABLE] │       │               │                    │ Ecglaf,                         │
 [UNFIXABLE] │       │               │           Line 653 │                                 │
-[UNFIXABLE] │       │               │                    │                          never  │
+[UNFIXABLE] │       │               │                    │                         never   │
 [UNFIXABLE] │       │               │                    │ had Grendel these grim deeds    │
 [UNFIXABLE] │       │               │                    │ wrought,                        │
 [UNFIXABLE] │       │               │           Line 654 │                                 │
-[UNFIXABLE] │       │               │                    │                          monst… │
+[UNFIXABLE] │       │               │                    │                         monster │
 [UNFIXABLE] │       │               │                    │ dire, on thy master dear,       │
 [UNFIXABLE] │       │               │           Line 655 │                                 │
-[UNFIXABLE] │       │               │                    │                          in     │
+[UNFIXABLE] │       │               │                    │                         in      │
 [UNFIXABLE] │       │               │                    │ Heorot such havoc, if heart of  │
 [UNFIXABLE] │       │               │                    │ thine                           │
 [UNFIXABLE] │       │               │           Line 656 │                                 │
-[UNFIXABLE] │       │               │                    │                          were   │
-[UNFIXABLE] │       │               │                    │ as battle-bold as thy boast is  │
+[UNFIXABLE] │       │               │                    │                         were as │
+[UNFIXABLE] │       │               │                    │ battle-bold as thy boast is     │
 [UNFIXABLE] │       │               │                    │ loud!                           │
 [UNFIXABLE] │       │               │           Line 657 │                                 │
 [UNFIXABLE] │       │               │                    │                         But he  │
 [UNFIXABLE] │       │               │                    │ has found no feud will happen;  │
 [UNFIXABLE] │       │               │           Line 658 │                                 │
-[UNFIXABLE] │       │               │                    │                          from   │
+[UNFIXABLE] │       │               │                    │                         from    │
 [UNFIXABLE] │       │               │                    │ sword-clash dread of your       │
 [UNFIXABLE] │       │               │                    │ Danish clan                     │
 [UNFIXABLE] │       │               │           Line 659 │                                 │
-[UNFIXABLE] │       │               │                    │                          he     │
+[UNFIXABLE] │       │               │                    │                         he      │
 [UNFIXABLE] │       │               │                    │ vaunts him safe, from the       │
 [UNFIXABLE] │       │               │                    │ Victor-Scyldings.               │
 [UNFIXABLE] │       │               │           Line 660 │                                 │
-[UNFIXABLE] │       │               │                    │                          He     │
+[UNFIXABLE] │       │               │                    │                         He      │
 [UNFIXABLE] │       │               │                    │ forces pledges, favors none     │
 [UNFIXABLE] │       │               │           Line 661 │                                 │
-[UNFIXABLE] │       │               │                    │                          of the │
+[UNFIXABLE] │       │               │                    │                         of the  │
 [UNFIXABLE] │       │               │                    │ land of Danes, but lustily      │
 [UNFIXABLE] │       │               │                    │ murders,                        │
 [UNFIXABLE] │       │               │           Line 662 │                                 │
-[UNFIXABLE] │       │               │                    │                          fights │
+[UNFIXABLE] │       │               │                    │                         fights  │
 [UNFIXABLE] │       │               │                    │ and feasts, nor feud he dreads  │
 [UNFIXABLE] │       │               │           Line 663 │                                 │
-[UNFIXABLE] │       │               │                    │                          from   │
+[UNFIXABLE] │       │               │                    │                         from    │
 [UNFIXABLE] │       │               │                    │ Spear-Dane men. But speedily    │
 [UNFIXABLE] │       │               │                    │ now                             │
 [UNFIXABLE] │       │               │           Line 664 │                                 │
-[UNFIXABLE] │       │               │                    │                          shall  │
-[UNFIXABLE] │       │               │                    │ I prove him the prowess and     │
-[UNFIXABLE] │       │               │                    │ pride of the Geats,             │
+[UNFIXABLE] │       │               │                    │                         shall I │
+[UNFIXABLE] │       │               │                    │ prove him the prowess and pride │
+[UNFIXABLE] │       │               │                    │ of the Geats,                   │
 [UNFIXABLE] │       │               │           Line 665 │                                 │
-[UNFIXABLE] │       │               │                    │                          shall  │
+[UNFIXABLE] │       │               │                    │                         shall   │
 [UNFIXABLE] │       │               │                    │ bid him battle. Blithe to mead  │
 [UNFIXABLE] │       │               │           Line 666 │                                 │
-[UNFIXABLE] │       │               │                    │                          go he  │
+[UNFIXABLE] │       │               │                    │                         go he   │
 [UNFIXABLE] │       │               │                    │ that listeth, when light of     │
 [UNFIXABLE] │       │               │                    │ dawn                            │
 [UNFIXABLE] │       │               │           Line 667 │                                 │
-[UNFIXABLE] │       │               │                    │                          this   │
+[UNFIXABLE] │       │               │                    │                         this    │
 [UNFIXABLE] │       │               │                    │ morrow morning o’er men of      │
 [UNFIXABLE] │       │               │                    │ earth,                          │
 [UNFIXABLE] │       │               │           Line 668 │                                 │
 [UNFIXABLE] │       │               │                    │                         ether-… │
 [UNFIXABLE] │       │               │                    │ sun from the south shall beam!” │
 [UNFIXABLE] │       │               │           Line 669 │                                 │
-[UNFIXABLE] │       │               │                    │                          Joyous │
+[UNFIXABLE] │       │               │                    │                         Joyous  │
 [UNFIXABLE] │       │               │                    │ then was the Jewel-giver,       │
 [UNFIXABLE] │       │               │           Line 670 │                                 │
-[UNFIXABLE] │       │               │                    │                          hoar-… │
+[UNFIXABLE] │       │               │                    │                         hoar-h… │
 [UNFIXABLE] │       │               │                    │ war-brave; help awaited         │
 [UNFIXABLE] │       │               │           Line 671 │                                 │
-[UNFIXABLE] │       │               │                    │                          the    │
+[UNFIXABLE] │       │               │                    │                         the     │
 [UNFIXABLE] │       │               │                    │ Bright-Danes’ prince, from      │
 [UNFIXABLE] │       │               │                    │ Beowulf hearing,                │
 [UNFIXABLE] │       │               │           Line 672 │                                 │
-[UNFIXABLE] │       │               │                    │                          folk’s │
+[UNFIXABLE] │       │               │                    │                         folk’s  │
 [UNFIXABLE] │       │               │                    │ good shepherd, such firm        │
 [UNFIXABLE] │       │               │                    │ resolve.                        │
 [UNFIXABLE] │       │               │           Line 673 │                                 │
-[UNFIXABLE] │       │               │                    │                          Then   │
+[UNFIXABLE] │       │               │                    │                         Then    │
 [UNFIXABLE] │       │               │                    │ was laughter of liegemen loud   │
 [UNFIXABLE] │       │               │                    │ resounding                      │
 [UNFIXABLE] │       │               │           Line 674 │                                 │
-[UNFIXABLE] │       │               │                    │                          with   │
+[UNFIXABLE] │       │               │                    │                         with    │
 [UNFIXABLE] │       │               │                    │ winsome words. Came Wealhtheow  │
 [UNFIXABLE] │       │               │                    │ forth,                          │
 [UNFIXABLE] │       │               │           Line 675 │                                 │
-[UNFIXABLE] │       │               │                    │                          queen  │
+[UNFIXABLE] │       │               │                    │                         queen   │
 [UNFIXABLE] │       │               │                    │ of Hrothgar, heedful of         │
 [UNFIXABLE] │       │               │                    │ courtesy,                       │
 [UNFIXABLE] │       │               │           Line 676 │                                 │
-[UNFIXABLE] │       │               │                    │                          gold-… │
+[UNFIXABLE] │       │               │                    │                         gold-d… │
 [UNFIXABLE] │       │               │                    │ greeting the guests in hall;    │
 [UNFIXABLE] │       │               │           Line 677 │                                 │
-[UNFIXABLE] │       │               │                    │                          and    │
-[UNFIXABLE] │       │               │                    │ the high-born lady handed the   │
-[UNFIXABLE] │       │               │                    │ cup                             │
+[UNFIXABLE] │       │               │                    │                         and the │
+[UNFIXABLE] │       │               │                    │ high-born lady handed the cup   │
 [UNFIXABLE] │       │               │           Line 678 │                                 │
-[UNFIXABLE] │       │               │                    │                          first  │
+[UNFIXABLE] │       │               │                    │                         first   │
 [UNFIXABLE] │       │               │                    │ to the East-Danes’ heir and     │
 [UNFIXABLE] │       │               │                    │ warden,                         │
 [UNFIXABLE] │       │               │           Line 679 │                                 │
-[UNFIXABLE] │       │               │                    │                          bade   │
+[UNFIXABLE] │       │               │                    │                         bade    │
 [UNFIXABLE] │       │               │                    │ him be blithe at the            │
 [UNFIXABLE] │       │               │                    │ beer-carouse,                   │
 [UNFIXABLE] │       │               │           Line 680 │                                 │
-[UNFIXABLE] │       │               │                    │                          the    │
+[UNFIXABLE] │       │               │                    │                         the     │
 [UNFIXABLE] │       │               │                    │ land’s beloved one. Lustily     │
 [UNFIXABLE] │       │               │                    │ took he                         │
 [UNFIXABLE] │       │               │           Line 681 │                                 │
@@ -1938,30 +1930,30 @@ Generated: 2026-06-15 22:39:50
 [UNFIXABLE] │       │               │          Line 1287 │ Men say to me, as son thou      │
 [UNFIXABLE] │       │               │                    │ wishest                         │
 [UNFIXABLE] │       │               │          Line 1287 │                                 │
-[UNFIXABLE] │       │               │                    │                          yon    │
+[UNFIXABLE] │       │               │                    │                         yon     │
 [UNFIXABLE] │       │               │                    │ hero to hold. Thy Heorot        │
 [UNFIXABLE] │       │               │                    │ purged,                         │
 [UNFIXABLE] │       │               │          Line 1288 │                                 │
-[UNFIXABLE] │       │               │                    │                          jewel… │
+[UNFIXABLE] │       │               │                    │                         jewel-… │
 [UNFIXABLE] │       │               │                    │ brightest, enjoy while thou     │
 [UNFIXABLE] │       │               │                    │ canst,                          │
 [UNFIXABLE] │       │               │          Line 1289 │                                 │
-[UNFIXABLE] │       │               │                    │                          with   │
+[UNFIXABLE] │       │               │                    │                         with    │
 [UNFIXABLE] │       │               │                    │ many a largess; and leave to    │
 [UNFIXABLE] │       │               │                    │ thy kin                         │
 [UNFIXABLE] │       │               │          Line 1290 │                                 │
-[UNFIXABLE] │       │               │                    │                          folk   │
+[UNFIXABLE] │       │               │                    │                         folk    │
 [UNFIXABLE] │       │               │                    │ and realm when forth thou goest │
 [UNFIXABLE] │       │               │          Line 1291 │                                 │
 [UNFIXABLE] │       │               │                    │                         to      │
 [UNFIXABLE] │       │               │                    │ greet thy doom. For gracious I  │
 [UNFIXABLE] │       │               │                    │ deem                            │
 [UNFIXABLE] │       │               │          Line 1292 │                                 │
-[UNFIXABLE] │       │               │                    │                          my     │
+[UNFIXABLE] │       │               │                    │                         my      │
 [UNFIXABLE] │       │               │                    │ Hrothulf,                       │
 [UNFIXABLE] │       │               │          Line 1293 │  willing to hold and rule       │
 [UNFIXABLE] │       │               │          Line 1293 │                                 │
-[UNFIXABLE] │       │               │                    │                          nobly  │
+[UNFIXABLE] │       │               │                    │                         nobly   │
 [UNFIXABLE] │       │               │                    │ our youths, if thou yield up    │
 [UNFIXABLE] │       │               │                    │ first,                          │
 [UNFIXABLE] │       │               │          Line 1294 │                                 │
@@ -1969,80 +1961,78 @@ Generated: 2026-06-15 22:39:50
 [UNFIXABLE] │       │               │                    │ of Scyldings, thy part in the   │
 [UNFIXABLE] │       │               │                    │ world.                          │
 [UNFIXABLE] │       │               │          Line 1295 │                                 │
-[UNFIXABLE] │       │               │                    │                          I ween │
+[UNFIXABLE] │       │               │                    │                         I ween  │
 [UNFIXABLE] │       │               │                    │ with good he will well requite  │
 [UNFIXABLE] │       │               │          Line 1296 │                                 │
-[UNFIXABLE] │       │               │                    │                          offsp… │
+[UNFIXABLE] │       │               │                    │                         offspr… │
 [UNFIXABLE] │       │               │                    │ of ours, when all he minds      │
 [UNFIXABLE] │       │               │          Line 1297 │                                 │
-[UNFIXABLE] │       │               │                    │                          that   │
+[UNFIXABLE] │       │               │                    │                         that    │
 [UNFIXABLE] │       │               │                    │ for him we did in his helpless  │
 [UNFIXABLE] │       │               │                    │ days                            │
 [UNFIXABLE] │       │               │          Line 1298 │                                 │
-[UNFIXABLE] │       │               │                    │                          of     │
-[UNFIXABLE] │       │               │                    │ gift and grace to gain him      │
-[UNFIXABLE] │       │               │                    │ honor!”                         │
+[UNFIXABLE] │       │               │                    │                         of gift │
+[UNFIXABLE] │       │               │                    │ and grace to gain him honor!”   │
 [UNFIXABLE] │       │               │          Line 1299 │                                 │
 [UNFIXABLE] │       │               │                    │                         Then    │
 [UNFIXABLE] │       │               │                    │ she turned to the seat where    │
 [UNFIXABLE] │       │               │                    │ her sons wereplaced,            │
 [UNFIXABLE] │       │               │          Line 1300 │                                 │
-[UNFIXABLE] │       │               │                    │                          Hreth… │
+[UNFIXABLE] │       │               │                    │                         Hrethr… │
 [UNFIXABLE] │       │               │                    │ and Hrothmund, with heroes’     │
 [UNFIXABLE] │       │               │                    │ bairns,                         │
 [UNFIXABLE] │       │               │          Line 1301 │                                 │
-[UNFIXABLE] │       │               │                    │                          young  │
+[UNFIXABLE] │       │               │                    │                         young   │
 [UNFIXABLE] │       │               │                    │ men together: the Geat, too,    │
 [UNFIXABLE] │       │               │                    │ sat there,                      │
 [UNFIXABLE] │       │               │          Line 1302 │                                 │
-[UNFIXABLE] │       │               │                    │                          Beowu… │
+[UNFIXABLE] │       │               │                    │                         Beowulf │
 [UNFIXABLE] │       │               │                    │ brave, the brothers between.    │
 [UNFIXABLE] │       │               │          Line 2027 │ Thou hast brought it about that │
 [UNFIXABLE] │       │               │                    │ both our peoples,               │
 [UNFIXABLE] │       │               │          Line 2027 │                                 │
-[UNFIXABLE] │       │               │                    │                          sons   │
-[UNFIXABLE] │       │               │                    │ of the Geat and Spear-Dane      │
-[UNFIXABLE] │       │               │                    │ folk,                           │
+[UNFIXABLE] │       │               │                    │                         sons of │
+[UNFIXABLE] │       │               │                    │ the Geat and Spear-Dane folk,   │
 [UNFIXABLE] │       │               │          Line 2028 │                                 │
-[UNFIXABLE] │       │               │                    │                          shall  │
+[UNFIXABLE] │       │               │                    │                         shall   │
 [UNFIXABLE] │       │               │                    │ have mutual peace, and from     │
 [UNFIXABLE] │       │               │                    │ murderous strife,               │
 [UNFIXABLE] │       │               │          Line 2029 │                                 │
-[UNFIXABLE] │       │               │                    │                          such   │
-[UNFIXABLE] │       │               │                    │ as once they waged, from war    │
+[UNFIXABLE] │       │               │                    │                         such as │
+[UNFIXABLE] │       │               │                    │ once they waged, from war       │
 [UNFIXABLE] │       │               │                    │ refrain.                        │
 [UNFIXABLE] │       │               │          Line 2030 │                                 │
-[UNFIXABLE] │       │               │                    │                          Long   │
-[UNFIXABLE] │       │               │                    │ as I rule this realm so wide,   │
+[UNFIXABLE] │       │               │                    │                         Long as │
+[UNFIXABLE] │       │               │                    │ I rule this realm so wide,      │
 [UNFIXABLE] │       │               │          Line 2031 │                                 │
-[UNFIXABLE] │       │               │                    │                          let    │
-[UNFIXABLE] │       │               │                    │ our hoards be common, let       │
-[UNFIXABLE] │       │               │                    │ heroes with gold                │
+[UNFIXABLE] │       │               │                    │                         let our │
+[UNFIXABLE] │       │               │                    │ hoards be common, let heroes    │
+[UNFIXABLE] │       │               │                    │ with gold                       │
 [UNFIXABLE] │       │               │          Line 2032 │                                 │
-[UNFIXABLE] │       │               │                    │                          each   │
+[UNFIXABLE] │       │               │                    │                         each    │
 [UNFIXABLE] │       │               │                    │ other greet o’er the            │
 [UNFIXABLE] │       │               │                    │ gannet’s-bath,                  │
 [UNFIXABLE] │       │               │          Line 2033 │                                 │
-[UNFIXABLE] │       │               │                    │                          and    │
-[UNFIXABLE] │       │               │                    │ the ringed-prow bear o’er       │
-[UNFIXABLE] │       │               │                    │ rolling waves                   │
+[UNFIXABLE] │       │               │                    │                         and the │
+[UNFIXABLE] │       │               │                    │ ringed-prow bear o’er rolling   │
+[UNFIXABLE] │       │               │                    │ waves                           │
 [UNFIXABLE] │       │               │          Line 2034 │                                 │
-[UNFIXABLE] │       │               │                    │                          tokens │
+[UNFIXABLE] │       │               │                    │                         tokens  │
 [UNFIXABLE] │       │               │                    │ of love. I trow my landfolk     │
 [UNFIXABLE] │       │               │          Line 2035 │                                 │
-[UNFIXABLE] │       │               │                    │                          towar… │
+[UNFIXABLE] │       │               │                    │                         towards │
 [UNFIXABLE] │       │               │                    │ friend and foe are firmly       │
 [UNFIXABLE] │       │               │                    │ joined,                         │
 [UNFIXABLE] │       │               │          Line 2036 │                                 │
-[UNFIXABLE] │       │               │                    │                          and    │
+[UNFIXABLE] │       │               │                    │                         and     │
 [UNFIXABLE] │       │               │                    │ honor they keep in the olden    │
 [UNFIXABLE] │       │               │                    │ way.”                           │
 [UNFIXABLE] │       │               │          Line 2037 │                                 │
-[UNFIXABLE] │       │               │                    │                          To him │
+[UNFIXABLE] │       │               │                    │                         To him  │
 [UNFIXABLE] │       │               │                    │ in the hall, then, Healfdene’s  │
 [UNFIXABLE] │       │               │                    │ son                             │
 [UNFIXABLE] │       │               │          Line 2038 │                                 │
-[UNFIXABLE] │       │               │                    │                          gave   │
+[UNFIXABLE] │       │               │                    │                         gave    │
 [UNFIXABLE] │       │               │                    │ treasures twelve, and the       │
 [UNFIXABLE] │       │               │                    │ trust-of-earls                  │
 [UNFIXABLE] │       │               │          Line 2039 │                                 │
@@ -2050,22 +2040,21 @@ Generated: 2026-06-15 22:39:50
 [UNFIXABLE] │       │               │                    │ him fare with the gifts to his  │
 [UNFIXABLE] │       │               │                    │ folk beloved,                   │
 [UNFIXABLE] │       │               │          Line 2040 │                                 │
-[UNFIXABLE] │       │               │                    │                          hale   │
-[UNFIXABLE] │       │               │                    │ to his home, and in haste       │
-[UNFIXABLE] │       │               │                    │ return.                         │
+[UNFIXABLE] │       │               │                    │                         hale to │
+[UNFIXABLE] │       │               │                    │ his home, and in haste return.  │
 [UNFIXABLE] │       │               │          Line 2041 │                                 │
-[UNFIXABLE] │       │               │                    │                          Then   │
+[UNFIXABLE] │       │               │                    │                         Then    │
 [UNFIXABLE] │       │               │                    │ kissed the king of kin          │
 [UNFIXABLE] │       │               │                    │ renowned,                       │
 [UNFIXABLE] │       │               │          Line 2042 │                                 │
 [UNFIXABLE] │       │               │                    │                         Scyldi… │
 [UNFIXABLE] │       │               │                    │ chieftain, that choicest thane, │
 [UNFIXABLE] │       │               │          Line 2043 │                                 │
-[UNFIXABLE] │       │               │                    │                          and    │
+[UNFIXABLE] │       │               │                    │                         and     │
 [UNFIXABLE] │       │               │                    │ fell on his neck. Fast flowed   │
 [UNFIXABLE] │       │               │                    │ the tears                       │
 [UNFIXABLE] │       │               │          Line 2044 │                                 │
-[UNFIXABLE] │       │               │                    │                          of the │
+[UNFIXABLE] │       │               │                    │                         of the  │
 [UNFIXABLE] │       │               │                    │ hoary-headed. Heavy with        │
 [UNFIXABLE] │       │               │                    │ winters,                        │
 [UNFIXABLE] │       │               │          Line 2045 │                                 │
@@ -2074,57 +2063,60 @@ Generated: 2026-06-15 22:39:50
 [UNFIXABLE] │       │               │                    │ this,                           │
 [UNFIXABLE] │       │               │          Line 2046 │ ⁠—                               │
 [UNFIXABLE] │       │               │          Line 2046 │                                 │
-[UNFIXABLE] │       │               │                    │                          that   │
+[UNFIXABLE] │       │               │                    │                         that    │
 [UNFIXABLE] │       │               │                    │ each should look on the other   │
 [UNFIXABLE] │       │               │                    │ again,                          │
 [UNFIXABLE] │       │               │          Line 2047 │                                 │
-[UNFIXABLE] │       │               │                    │                          and    │
+[UNFIXABLE] │       │               │                    │                         and     │
 [UNFIXABLE] │       │               │                    │ hear him in hall. Was this hero │
 [UNFIXABLE] │       │               │                    │ so dear to him.                 │
 [UNFIXABLE] │       │               │          Line 2048 │                                 │
-[UNFIXABLE] │       │               │                    │                          his    │
+[UNFIXABLE] │       │               │                    │                         his     │
 [UNFIXABLE] │       │               │                    │ breast’s wild billows he banned │
 [UNFIXABLE] │       │               │                    │ in vain;                        │
 [UNFIXABLE] │       │               │          Line 2049 │                                 │
-[UNFIXABLE] │       │               │                    │                          safe   │
-[UNFIXABLE] │       │               │                    │ in his soul a secret longing,   │
+[UNFIXABLE] │       │               │                    │                         safe in │
+[UNFIXABLE] │       │               │                    │ his soul a secret longing,      │
 [UNFIXABLE] │       │               │          Line 2050 │                                 │
-[UNFIXABLE] │       │               │                    │                          locked │
+[UNFIXABLE] │       │               │                    │                         locked  │
 [UNFIXABLE] │       │               │                    │ in his mind, for that loved man │
 [UNFIXABLE] │       │               │          Line 2051 │                                 │
-[UNFIXABLE] │       │               │                    │                          burned │
+[UNFIXABLE] │       │               │                    │                         burned  │
 [UNFIXABLE] │       │               │                    │ in his blood. Then Beowulf      │
 [UNFIXABLE] │       │               │                    │ strode,                         │
 [UNFIXABLE] │       │               │          Line 2052 │                                 │
-[UNFIXABLE] │       │               │                    │                          glad   │
-[UNFIXABLE] │       │               │                    │ of his gold-gifts, the          │
-[UNFIXABLE] │       │               │                    │ grass-plot o’er,                │
+[UNFIXABLE] │       │               │                    │                         glad of │
+[UNFIXABLE] │       │               │                    │ his gold-gifts, the grass-plot  │
+[UNFIXABLE] │       │               │                    │ o’er,                           │
 [UNFIXABLE] │       │               │          Line 2053 │                                 │
-[UNFIXABLE] │       │               │                    │                          warri… │
+[UNFIXABLE] │       │               │                    │                         warrior │
 [UNFIXABLE] │       │               │                    │ blithe. The wave-roamer bode    │
 [UNFIXABLE] │       │               │          Line 2054 │                                 │
-[UNFIXABLE] │       │               │                    │                          riding │
+[UNFIXABLE] │       │               │                    │                         riding  │
 [UNFIXABLE] │       │               │                    │ at anchor, its owner awaiting.  │
 [UNFIXABLE] │       │               │          Line 2055 │                                 │
-[UNFIXABLE] │       │               │                    │                          As     │
-[UNFIXABLE] │       │               │                    │ they hastened onward,           │
-[UNFIXABLE] │       │               │                    │ Hrothgar’s gift                 │
+[UNFIXABLE] │       │               │                    │                         As they │
+[UNFIXABLE] │       │               │                    │ hastened onward, Hrothgar’s     │
+[UNFIXABLE] │       │               │                    │ gift                            │
 [UNFIXABLE] │       │               │          Line 2056 │                                 │
-[UNFIXABLE] │       │               │                    │                          they   │
-[UNFIXABLE] │       │               │                    │ lauded at length.⁠—⁠’Twas a lord  │
+[UNFIXABLE] │       │               │                    │                         they    │
+[UNFIXABLE] │       │               │                    │ lauded at length.⁠—’Twas a lord  │
 [UNFIXABLE] │       │               │                    │ unpeered,                       │
 [UNFIXABLE] │       │               │          Line 2057 │                                 │
-[UNFIXABLE] │       │               │                    │                          every  │
+[UNFIXABLE] │       │               │                    │                         every   │
 [UNFIXABLE] │       │               │                    │ way blameless, till age had     │
 [UNFIXABLE] │       │               │                    │ broken                          │
 [UNFIXABLE] │       │               │          Line 2058 │                                 │
-[UNFIXABLE] │       │               │                    │                 —⁠it spareth no  │
-[UNFIXABLE] │       │               │                    │ mortal⁠—his splendid might.      │
+[UNFIXABLE] │       │               │                    │                         —it     │
+[UNFIXABLE] │       │               │                    │ spareth no mortal⁠—his splendid  │
+[UNFIXABLE] │       │               │                    │ might.                          │
 [UNFIXABLE] │ c-012 │ Error         │ chapter-2.xhtml    │ Sectioning element without      │
 [UNFIXABLE] │       │               │                    │ heading content, and without    │
 [UNFIXABLE] │       │               │                    │ margin-top: 20vh;.              │
 [UNFIXABLE] │       │               │             Line 9 │ <section id="chapter-2"         │
 [UNFIXABLE] │       │               │                    │ epub:type="chapter">            │
+[UNFIXABLE] │ m-045 │ Error         │ chapter-2.xhtml    │ Heading not found in the ToC.   │
+[UNFIXABLE] │       │               │             Line 4 │ Chapter                         │
 [UNFIXABLE] │ s-008 │ Error         │ chapter-2.xhtml    │ <br/> element found before      │
 [UNFIXABLE] │       │               │                    │ closing tag of block-level      │
 [UNFIXABLE] │       │               │                    │ element.                        │
@@ -2175,11 +2167,11 @@ Generated: 2026-06-15 22:39:50
 [UNFIXABLE] │       │               │                    │ rel="stylesheet"                │
 [UNFIXABLE] │       │               │                    │ type="text/css">                │
 [UNFIXABLE] │ m-048 │ Error         │ se-lint-ignore.xml │ Unused ignore rule.             │
-[UNFIXABLE] │       │               │             Line 6 │ content.opf: m-040              │
+[UNFIXABLE] │       │               │             Line 3 │ content.opf: m-040              │
+[UNFIXABLE] │ m-045 │ Error         │ titlepage.xhtml    │ Heading not found in the ToC.   │
+[UNFIXABLE] │       │               │             Line 4 │ Titlepage                       │
 
 --- Content Review (Spot Check) ---
-[BROKEN_SENTENCE] The sentence is broken with placeholders/missing names.
+[BROKEN_SENTENCE] The sentence contains placeholders or missing text indicated by dashes, rendering it grammatically incomplete.
   Quote: "and I heard that—was—’s queen,"
-[MISSING_CONTENT] The excerpt ends abruptly mid-sentence.
-  Quote: "To their ship the Scylding warriors bore"
 
