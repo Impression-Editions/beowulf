@@ -1,0 +1,14 @@
+
+============================================================
+Step 5: Renumber endnotes — 2026-06-15 22:38:50
+============================================================
+
+se renumber-endnotes failed: [Error] Endnote error(s) found:
+Orphan endnote with anchor: note-1
+Orphan endnote with anchor: note-2
+Orphan endnote with anchor: note-3
+Orphan endnote with anchor: note-4
+Orphan endnote with anchor: note-5
+Orphan endnote with anchor: note-6
+Orphan endnote with anchor: note-7
+Orphan endnote with anc
