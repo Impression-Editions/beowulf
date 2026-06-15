@@ -15,7 +15,8 @@
     "credit": "Beowulf, Cotton MS Vitellius A XV, f.137r. British Library. Public domain.",
     "title": "(Venice) Bust of Vespasianus - Venice National Archaeological Museum.jpg",
     "source": "Wikimedia Commons",
-    "license": "Public Domain"
+    "license": "Public Domain",
+    "override": "cover-override/cover.png"
   },
   "placements": []
 }
