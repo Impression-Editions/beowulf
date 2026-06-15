@@ -78,12 +78,14 @@
 		<dc:contributor id="translator-1">Gummere</dc:contributor>
 		<meta property="file-as" refines="#translator-1">Gummere</meta>
 		<meta property="role" refines="#translator-1" scheme="marc:relators">trl</meta>
+			<meta content="cover.jpg" name="cover">cover.jpg</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
 		<item href="css/local.css" id="local.css" media-type="text/css"/>
 		<item href="css/se.css" id="se.css" media-type="text/css"/>
-		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
+				<item href="images/cover.source.jpg" id="cover.jpg" media-type="image/jpeg" properties="cover-image"/>
+		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/pg981_cover.jpg" id="pg981_cover.jpg" media-type="image/jpeg"/>
 		<item href="images/pg981_cover_small.jpg" id="pg981_cover_small.jpg" media-type="image/jpeg"/>
