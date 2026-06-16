@@ -1,0 +1,22 @@
+{
+  "_instructions": {
+    "purpose": "Book-specific corrections that survive pipeline re-runs.",
+    "how_to_use": "Add entries to 'text_corrections' for find-and-replace fixes. Add entries to 'metadata_overrides' to change author, translator, etc. The pipeline applies these after split_files and before typogrify.",
+    "text_corrections": {
+      "_format": "List of {find, replace, reason} objects. 'find' must match exactly (case-sensitive, including HTML tags if needed). Use plain text for simple word fixes."
+    },
+    "metadata_overrides": {
+      "_format": "Key-value pairs. Supported keys: author, translator, title. These override what ingest.py detected and flow through to OPF, titlepage, imprint, and cover SVG."
+    }
+  },
+  "text_corrections": [
+    {
+      "find": "battle-fanned",
+      "replace": "battle-famed",
+      "reason": "PG transcription error. Line 3059 of PG text. Context: 'A barrow bid ye the battle-famed raise' — describing Beowulf's warriors as renowned, not ventilated."
+    }
+  ],
+  "metadata_overrides": {
+    "translator": "Francis Barton Gummere"
+  }
+}

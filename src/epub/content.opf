@@ -75,8 +75,8 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
-		<dc:contributor id="translator-1">Gummere</dc:contributor>
-		<meta property="file-as" refines="#translator-1">Gummere</meta>
+		<dc:contributor id="translator-1">Francis Barton Gummere</dc:contributor>
+		<meta property="file-as" refines="#translator-1">Gummere, Francis Barton</meta>
 		<meta property="role" refines="#translator-1" scheme="marc:relators">trl</meta>
 		<meta content="cover.jpg" name="cover">cover.jpg</meta>
 	</metadata>
