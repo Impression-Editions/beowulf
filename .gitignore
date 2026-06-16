@@ -1,0 +1,27 @@
+# === IE Book .gitignore ===
+# Auto-managed by pipeline. Do not edit manually.
+
+# Dotfiles (config, cache, logs)
+.*
+
+# Pipeline logs and reports
+review-report.txt
+lint-report.txt
+spot_check_report.json
+
+# Preview HTML (regenerable from src/)
+*.html
+*_files/
+
+# Built EPUBs (regenerable from src/)
+*.epub
+*.azw3
+
+# Cover working files (regenerable from cover-override/)
+images/cover.jpg
+images/cover.svg
+images/titlepage.svg
+
+# Intermediate cover artifacts
+src/epub/images/cover.source.jpg
+src/epub/images/pg*_cover*.jpg
