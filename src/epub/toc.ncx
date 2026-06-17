@@ -1,41 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ncx xmlns="http://www.daisy.org/z3998/2005/ncx/" version="2005-1" xml:lang="en-US">
 	<head>
-		<meta name="dtb:uid" content="https://impressioneditions.com/ebooks/anonymous/beowulf"/>
+		<meta content="https://impressioneditions.com/ebooks/anonymous/beowulf" name="dtb:uid"/>
 	</head>
 	<docTitle>
 		<text>Table of Contents</text>
 	</docTitle>
 	<navMap>
-	<navPoint id="navPoint-1" playOrder="1">
-		<navLabel>
-			<text>Beowulf</text>
-		</navLabel>
-		<content src="text/titlepage.xhtml"/>
-	</navPoint>
-	<navPoint id="navPoint-2" playOrder="2">
-		<navLabel>
-			<text>Imprint</text>
-		</navLabel>
-		<content src="text/imprint.xhtml"/>
-	</navPoint>
-	<navPoint id="navPoint-3" playOrder="3">
-		<navLabel>
-			<text>BEOWULF PRELUDE OF THE FOUNDER OF THE DANISH HOUSE</text>
-		</navLabel>
-		<content src="text/chapter-1.xhtml"/>
-	</navPoint>
-	<navPoint id="navPoint-4" playOrder="4">
-		<navLabel>
-			<text>Endnotes</text>
-		</navLabel>
-		<content src="text/endnotes.xhtml"/>
-	</navPoint>
-	<navPoint id="navPoint-5" playOrder="5">
-		<navLabel>
-			<text>Copyright &amp; Permissions</text>
-		</navLabel>
-		<content src="text/permissions.xhtml"/>
-	</navPoint>
+		<navPoint id="navPoint-1" playOrder="1">
+			<navLabel>
+				<text>Beowulf</text>
+			</navLabel>
+			<content src="text/titlepage.xhtml"/>
+		</navPoint>
+		<navPoint id="navPoint-2" playOrder="2">
+			<navLabel>
+				<text>Imprint</text>
+			</navLabel>
+			<content src="text/imprint.xhtml"/>
+		</navPoint>
+		<navPoint id="navPoint-3" playOrder="3">
+			<navLabel>
+				<text>BEOWULF PRELUDE OF THE FOUNDER OF THE DANISH HOUSE</text>
+			</navLabel>
+			<content src="text/chapter-1.xhtml"/>
+		</navPoint>
+		<navPoint id="navPoint-4" playOrder="4">
+			<navLabel>
+				<text>Endnotes</text>
+			</navLabel>
+			<content src="text/endnotes.xhtml"/>
+		</navPoint>
+		<navPoint id="navPoint-5" playOrder="5">
+			<navLabel>
+				<text>Copyright &amp; Permissions</text>
+			</navLabel>
+			<content src="text/permissions.xhtml"/>
+		</navPoint>
 	</navMap>
 </ncx>
