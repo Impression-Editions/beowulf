@@ -1,8 +1,9 @@
 # === IE Book .gitignore ===
 # Auto-managed by pipeline. Do not edit manually.
 
-# Dotfiles (config, cache, logs)
+# Dotfiles (config, cache, logs) — EXCEPT .pipeline-status.json
 .*
+!.pipeline-status.json
 
 # Pipeline logs and reports
 review-report.txt
