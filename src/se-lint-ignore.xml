@@ -1,19 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
 	<file path="content.opf">
-		<ignore code="m-040">
-			<reason>Alt text is minimal, IE does not set wat role metadata</reason>
+		<ignore code="m-056">
+			<reason>IE does not have SE author pages to link to</reason>
 		</ignore>
 		<ignore code="m-042">
 			<reason>IE Calibre raster cover workaround adds manifest item not expected by SE</reason>
 		</ignore>
-		<ignore code="m-056">
-			<reason>IE does not have SE author pages to link to</reason>
+	</file>
+	<file path="cover.svg">
+		<ignore code="s-028">
+			<reason>Cover SVG and titlepage SVG titles differ by design</reason>
 		</ignore>
 	</file>
 	<file path="local.css">
 		<ignore code="c-002">
 			<reason>CSS template includes selectors for features this book does not use</reason>
+		</ignore>
+	</file>
+	<file path="titlepage.xhtml">
+		<ignore code="m-045">
+			<reason>Titlepage is not a ToC entry</reason>
+		</ignore>
+	</file>
+
+	<file path="chapter-1.xhtml">
+		<ignore code="s-071">
+			<reason>Epic poem with chapter title and 41 Roman numeral section headings in a single section. This is correct for long verse works.</reason>
 		</ignore>
 	</file>
 </se-lint-ignore>
