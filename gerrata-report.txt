@@ -1,0 +1,14 @@
+In Beowulf, by Anonymous, [EBook #981],
+File: 981.txt,
+I verified the following changes against the Internet Archive scan:
+https://archive.org/details/epicsagabeowulfs00newyuoft
+NOTE: Page numbers are 'of the scan' not 'of the book.'
+
+
+Page 84 (https://archive.org/details/epicsagabeowulfs00newyuoft/page/84/mode/1up?q=%22battle-famed%22):
+A barrow bid ye the battle-fanned raise for my ashes.
+battle-fanned ==> battle-famed
+
+
+These errata were found using Gerrata (https://github.com/travis42/gerrata) and refined by a human reviewer (me).
+Please reach out if you would like to discuss Gerrata or this report.
